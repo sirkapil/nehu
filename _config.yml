@@ -7,7 +7,7 @@ name:               "Kiko"
 description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
+url:                "//sirkapil.github.io/kiko"
 author:             "gfjaru"
 twitter:
   username:         "gfjaru"
@@ -18,7 +18,7 @@ twitter:
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title/
+permalink:          /blog/:title/
 
 # Markdown
 markdown:           kramdown
