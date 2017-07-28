@@ -23,12 +23,15 @@ permalink:          /blog/:title/
 # Markdown
 markdown:           kramdown
 
+# MathJax
+mathjax: true
+
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
+    href:           "/about"
   - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "/releases"
 
 # Sass
 sass:
