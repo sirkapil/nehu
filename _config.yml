@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            "Kiko"
+baseurl:            "//sirkapil.github.io/Kiko/"
 #baseurl:            "" #For Root Domain
 permalink:          /blog/:title/
 
