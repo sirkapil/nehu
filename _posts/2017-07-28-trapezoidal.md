@@ -5,7 +5,7 @@ author: Kapil Chaudhary
 excerpt_separator: <!--more-->
 tags: [Numerical Method]
 ---
-<div class="isa_info"><i class="fa fa-star"></i><p align="left">This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p></div><br />
+<p class="lead" align="left">This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p> <br />
 <!--more-->
 <div class="divider"></div>
 <h2>Why "Trapezoidal" Name ?</h2>
