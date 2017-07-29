@@ -29,7 +29,7 @@ mathjax: true
 # Navigation
 nav:
   - name:           "About"
-    href:           "/Kiko/about"
+    href:           "Kiko/about"
   - name:           "Switch"
     href:           "/"
 
