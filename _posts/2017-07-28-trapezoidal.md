@@ -36,9 +36,9 @@ $$a+nh = b \\ h = \frac{b-a}{n}$$</center>
 
 Now, Apply Simple Trapezoidal Rule for each of the subinterval $$S_i$$.
 
-$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} [\int_{S_i}{} f(x)dx ]$$
+$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx $$
 
-$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} [\int_{a+(i-1)h}^{a+ih} f(x)dx ]$$
+$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$
 
 $$\approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right]$$
 
