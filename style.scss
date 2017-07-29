@@ -25,15 +25,15 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  color: #fff;
+  background-color: #008B8B;
+  -webkit-text-size-adjust: auto;
+      -ms-text-size-adjust: auto;
 }
 
 a {
   color: #ff4500;
-  text-decoration: underline wavy;
+  text-decoration: none;
 
   &:hover,
   &:focus {
