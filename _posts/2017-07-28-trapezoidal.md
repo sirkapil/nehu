@@ -46,17 +46,14 @@ $$ a < a+h < a+2h < \cdots < a+nh = b$$
 $$a+nh = b \\ h = \frac{b-a}{n}$$</center>
 
 Now, Apply Simple Trapezoidal Rule for each of the subinterval $$S_i$$.
-
+<p align="left">
 $$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx $$
-
 $$ = \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$ 
-
 $$ \approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right] $$ 
-
 $$ = \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
-
 $$ = \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
  because $$ h = \frac{b-a}{n}$$
+</p>
 <br />
 <hr />
 <div class="box2">
@@ -68,9 +65,9 @@ Check this following image
 ![Effect of increasing n in composite Trapezoidal rule](//sirkapil.github.io/alpha/img/trapezium2.gif)
 
 <br />
-<div class="box1">
+[^4]<div class="box1">
 <small><b><p><u>Note:</u></p></b><center>
-<p>However , it is also possible to do partition of [a,b] with irregular length.[^4]</p></center>
+<p>However , it is also possible to do partition of [a,b] with irregular length.</p></center>
 </small>
 </div>
 
