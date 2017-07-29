@@ -26,11 +26,17 @@ First , We do create partition for [a,b] where a and b are lower and upper limit
 In Regular Grids or Uniform Partition, [a,b] interval is distributed into $$n$$ subintervals of same length[^3].
 **In General**, If [a,b] is distributed uniformly into n subintervals. Let $$S_i$$ be $$i^{th}$$ interval with step size(_h_).<br />
 $$S_1 = [a , a+h] $$ 
-$$\\ S_2 = [a+h , a+2h] $$ 
+
+$$\\ S_2 = [a+h , a+2h] $$
+ 
 $$\\ \vdots $$ 
+
 $$\\ S_i = [a+(i-1)h , a+ih] $$
+
 $$\\ \vdots $$ 
+
 $$\\ S_n = [a+(n-1)h , b]$$ 
+
 <center>
 $$[a,b] = \bigcup_{i=1}^{n} S_i$$
 </center>
@@ -46,7 +52,9 @@ $$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx $$
 $$ = \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$ 
 
 $$ \approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right] $$ 
+
 $$ = \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
+
 $$ = \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
  because $$ h = \frac{b-a}{n}$$
 <br />
