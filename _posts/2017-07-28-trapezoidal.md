@@ -5,9 +5,9 @@ author: Kapil Chaudhary
 excerpt_separator: <!--more-->
 tags: [Numerical Method]
 ---
-<p class="lead" align="left">This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p> <br />
+<p class="lead">This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p> <br />
 <!--more-->
-<div class="divider"></div>
+<div class="hr"></div>
 <h2>Why "Trapezoidal" Name ?</h2>
 It approximates the region under the graph as a trapezoid.Look at image of  trapezoidal rules in action.
 ![trapezoidal in action](//sirkapil.github.io/alpha/img/IMG_20170720_174523.jpg)
@@ -38,11 +38,14 @@ Now, Apply Simple Trapezoidal Rule for each of the subinterval $$S_i$$.
 
 $$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} [\int_{S_i}{} f(x)dx ]$$
 
+$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} [\int_{a+(i-1)h}^{a+ih} f(x)dx ]$$
+
 $$\approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right]$$
 
 $$= \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$
 
-$$= \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right]   \because h = \frac{b-a}{n}$$<br />
+$$= \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right]   \because h = \frac{b-a}{n}$$
+<br />
 <div class="divider"></div>
 <div class="isa_info">
 <b>Note :</b> If we will increase the value of <i>n</i> then partition will  become smaller and smaller and consequently our answer will be more accurate.
@@ -53,7 +56,7 @@ Check this following image
 ![Effect of increasing n in composite Trapezoidal rule](//sirkapil.github.io/alpha/img/trapezium2.gif)
 
 <br />
-<div class="box1">
+<div class="container">
 <small><b><p><u>Note:</u></p></b><center>
 <p>However , it is also possible to do partition of [a,b] with irregular length.[^4]</p></center>
 </small>
@@ -74,7 +77,7 @@ $$\int_{a}^{b}f(x)dx \approx \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{k=1}^
 **Example (1)**
 Let's take a very simple example , integrating $$f(x)= sin(x)$$ over interval [0,2] by partition into two uniform subinterval (n=2). <br />
 **Answer**
-We are given $$a = 0 , b = 2 , n =2$$.
+We are given $$a = 0 , b = 2 , n =2 \\$$
 Step Size (h) $$ =\frac{(b-a)}{n} \\ =\frac{(2-0)}{2} = 1$$
 
 Now Using Composite Trapezoidal Formulae ,
