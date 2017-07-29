@@ -36,18 +36,10 @@ $$a+nh = b \\ h = \frac{b-a}{n}$$</center>
 
 Now, Apply Simple Trapezoidal Rule for each of the subinterval $$S_i$$.
 
-$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx $$
-
-$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$
-
-$$\approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right]$$
-
-$$= \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$
-
-$$= \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right]   \because h = \frac{b-a}{n}$$
+$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx \\ \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx \\ \approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right] \\ = \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] \\ = \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right]   \because h = \frac{b-a}{n}$$
 <br />
-<div class="divider"></div>
-<div class="isa_info">
+<hr />
+<div class="box2">
 <b>Note :</b> If we will increase the value of <i>n</i> then partition will  become smaller and smaller and consequently our answer will be more accurate.
 <i>As Smaller Partition , As Accurate Answer</i></div>
 
@@ -56,7 +48,7 @@ Check this following image
 ![Effect of increasing n in composite Trapezoidal rule](//sirkapil.github.io/alpha/img/trapezium2.gif)
 
 <br />
-<div class="container">
+<div class="box1">
 <small><b><p><u>Note:</u></p></b><center>
 <p>However , it is also possible to do partition of [a,b] with irregular length.[^4]</p></center>
 </small>
