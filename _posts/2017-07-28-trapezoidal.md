@@ -25,7 +25,8 @@ This Mehod is pretty accurate for evaluating approximate values of periodic func
 First , We do create partition for [a,b] where a and b are lower and upper limit of integral respectively.
 In Regular Grids or Uniform Partition, [a,b] interval is distributed into $$n$$ subintervals of same length[^3].
 **In General**, If [a,b] is distributed uniformly into n subintervals. Let $$S_i$$ be $$i^{th}$$ interval with step size(_h_).<br />
-$$S_1 = [a , a+h] $$ 
+
+$$\\ S_1 = [a , a+h] $$ 
 
 $$\\ S_2 = [a+h , a+2h] $$
  
@@ -65,7 +66,8 @@ Check this following image
 ![Effect of increasing n in composite Trapezoidal rule](//sirkapil.github.io/alpha/img/trapezium2.gif)
 
 <br />
-[^4]<div class="box1">
+[^4]
+<div class="box1">
 <small><b><p><u>Note:</u></p></b><center>
 <p>However , it is also possible to do partition of [a,b] with irregular length.</p></center>
 </small>
