@@ -261,6 +261,4 @@ Given Differential equation is :
 ## Solution 10
 Given Differential equation is :
 
-[^1]: as it was taking too time to load mathjax and even some latex codes were not rendering properly that's why including images of my assignment (done on A4 size sheets). This assignment can be found at my blog ,
-
-https://sirkapil.github.io/Assignment1.html
+[^1]: as it was taking too time to load mathjax and even some latex codes were not rendering properly that's why including images of my assignment (done on A4 size sheets). This assignment can be found at my blog (https://sirkapil.github.io/Assignment1.html)
