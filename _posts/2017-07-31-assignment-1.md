@@ -220,16 +220,17 @@ $$\ln|Ct| =  \frac{-1}{2}\left[\ln|\frac{t^2 - y^2}{t^2}|\right] -\frac{3}{14}\l
 
 Putting $t =x-1$ , We have 
 
-$$\ln|x-1| + \lnC =  \frac{-1}{2}\left[\ln|\frac{(x-1)^2 - y^2}{(x-1)^2}|\right] -\frac{3}{14}\ln\left|\frac{y+x-1}{y-x+1}\right|$$
+$$\ln|x-1| + \ln C =  \frac{-1}{2}\left[\ln|\frac{(x-1)^2 - y^2}{(x-1)^2}|\right] -\frac{3}{14}\ln\left|\frac{y+x-1}{y-x+1}\right|$$
 
 <div class="box1">
 <p>Solution : <br />
-$$\ln|x-1| + \lnC =  \frac{-1}{2}\left[\ln|\frac{(x-1)^2 - y^2}{(x-1)^2}|\right] -\frac{3}{14}\ln\left|\frac{y+x-1}{y-x+1}\right|$$
+$$\ln|x-1| + \ln C =  \frac{-1}{2}\left[\ln|\frac{(x-1)^2 - y^2}{(x-1)^2}|\right] -\frac{3}{14}\ln\left|\frac{y+x-1}{y-x+1}\right|$$
 </p>
 </div>
 
 <hr />
-## Solution 5
+## Solution 5 [^1]
+
 Given Differential equation is :
 ![page-1-solution-question-5](//sirkapil.github.io/alpha/img/5-1.jpg)
 <hr />
@@ -260,3 +261,6 @@ Given Differential equation is :
 ## Solution 10
 Given Differential equation is :
 
+[^1]: as it was taking too time to load mathjax and even some latex codes were not rendering properly that's why including images of my assignment (done on A4 size sheets). This assignment can be found at my blog ,
+
+https://sirkapil.github.io/Assignment1.html
