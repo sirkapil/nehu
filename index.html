@@ -3,7 +3,7 @@ layout: default
 ---
 <header class="masthead">
   <h1 id="tufte-css">
-    <a href="{{ site.baseurl }}/">{{ site.name }}</a><span style="color:grey">&#39;s blog</span>
+    {{ site.name }}<span style="color:red">&#39;s blog</span>
   </h1>
 <h2 class="subtitle">Articles</p>
 </header>
@@ -15,11 +15,10 @@ layout: default
 {% for post in site.posts %}
   <ul>
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p align="right">
+      <a href="{{ site.baseurl }}{{ post.url }}"><h4 align="left">{{ post.title }}</h4></a><p align="right">
       <time>{{ post.date | date_to_string }}</time>
     </p>
-    </li><br />
-<hr />
+    </li>
   </ul>
 {% endfor %}
 {% endif %}
