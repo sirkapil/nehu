@@ -5,7 +5,7 @@ layout: default
   <h1 id="tufte-css">
     <a href="{{ site.baseurl }}/">{{ site.name }}</a><span style="color:grey">&#39;s blog</span>
   </h1>
-<p class="subtitle">Articles</p>
+<h2 class="subtitle">Articles</p>
 </header>
 <section>
 <div class="content list">
@@ -15,12 +15,11 @@ layout: default
 {% for post in site.posts %}
   <ul>
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    
-    <p align="right">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p align="right">
       <time>{{ post.date | date_to_string }}</time>
     </p>
-    </li>
+    </li><br />
+<hr />
   </ul>
 {% endfor %}
 {% endif %}
