@@ -5,10 +5,12 @@ layout: default
   <h1 id="tufte-css">
     {{ page.title }}
   </h1>
-</header><br />
-  <p class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
-  </p> <hr />
+  
+  <p class="subtitle">
+    <time>{{ page.date | date_to_string }}</time><br />
+Author : {{ page.author }}
+  </p> 
+</header><hr />
 
   {{ content }}
 
