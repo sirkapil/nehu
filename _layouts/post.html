@@ -2,14 +2,16 @@
 layout: default
 ---
 <header class="masthead">
-  <h1 class="masthead-title">
+  <h1 id="tufte-css">
     <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s blog</span></a>
   </h1>
 </header><br />
 <div class="content post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-date">
+  <p class="sub-title">{{ page.title }}</p>
+  <p class="post-date">
     <time>{{ page.date | date_to_string }}</time>
-  </div>
+  </p>
+
   {{ content }}
+
 </div>
