@@ -2,7 +2,7 @@
 layout: default
 ---
 <header class="masthead">
-  <h1 id="tufte-css">
+  <h1 id="tufte-css" align="center">
     {{ site.name }}<span style="color:red">&#39;s blog</span>
   </h1>
 <h2 align="center" style="color:grey">POSTS</h2>
@@ -16,7 +16,7 @@ layout: default
   <ul>
     <li>
        <div>
-      <a href="{{ site.baseurl }}{{ post.url }}"><p align="left">{{ post.title }}</p></a><p align="right"><time>{{ post.date | date_to_string }}</time></p>
+      <a href="{{ site.baseurl }}{{ post.url }}"><p align="center">{{ post.title }}</p></a><p align="right"><time>{{ post.date | date_to_string }}</time></p>
        </div>
     </li>
   </ul>
