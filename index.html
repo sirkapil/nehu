@@ -2,13 +2,12 @@
 layout: default
 ---
 <header class="masthead">
-  <h1 id="tufte-css" align="center">
+  <h1 id="tufte-css">
     {{ site.name }}<span style="color:red">&#39;s blog</span>
   </h1>
 <h2 align="center" style="color:grey">POSTS</h2>
 </header>
 <section>
-<div class="content+list">
 {% if site.posts.size == 0 %}
   <h3>No post found</h3>
 {% else %}
@@ -16,11 +15,11 @@ layout: default
   <ul>
     <li>
        <div>
-      <a href="{{ site.baseurl }}{{ post.url }}"><p align="center">{{ post.title }}</p></a><p align="right"><time>{{ post.date | date_to_string }}</time></p>
+      <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4></a><p align="right"><time>{{ post.date | date_to_string }}</time></p>
        </div>
     </li>
   </ul>
 {% endfor %}
 {% endif %}
-</div>
+
 </section>
