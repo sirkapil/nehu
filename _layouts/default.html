@@ -2,12 +2,66 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <meta name="HandheldFriendly" content="True">
+
+  <meta name="MobileOptimized" content="320">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <link rel="stylesheet" href="//sirkapil.github.io/resume/tufte.css">
    <link rel="stylesheet" href="//sirkapil.github.io/resume/latex.css">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
   {% seo %}
+{% if site.mathjax == true %}
+ <script type="text/javascript" async
+
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+MathJax.Hub.Config({
+
+tex2jax: {
+
+inlineMath: [['$','$'], ['\\(','\\)']],
+
+displayMath: [['$$','$$']],
+
+processEscapes: true,
+
+processEnvironments: true,
+
+skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+
+TeX: { equationNumbers: { autoNumber: "AMS" },
+
+extensions: ["AMSmath.js", "AMSsymbols.js"] }
+
+}
+
+});
+
+MathJax.Hub.Queue(function() {
+
+var all = MathJax.Hub.getAllJax(), i;
+
+for(i = 0; i < all.length; i += 1) {
+
+all[i].SourceElement().parentNode.className += ' has-jax';
+
+}
+
+});
+
+MathJax.Hub.Config({
+
+TeX: { equationNumbers: { autoNumber: "AMS" } }
+
+});
+
+</script>
+{% endif %}
 </head>
 <body>
 <article>
@@ -15,11 +69,6 @@
     {{ content }}
 
 </article>
-{% if site.mathjax == true %}
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']], displayMath: [['$$','$$']], processEscapes: true, processEnvironments: true, skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], TeX: { equationNumbers: { autoNumber: "AMS" }, extensions: ["AMSmath.js", "AMSsymbols.js"] } } }); MathJax.Hub.Queue(function() { // Fix <code> tags after MathJax finishes running. This is a // hack to overcome a shortcoming of Markdown. Discussion at // https://github.com/mojombo/jekyll/issues/199 var all = MathJax.Hub.getAllJax(), i; for(i = 0; i < all.length; i += 1) { all[i].SourceElement().parentNode.className += ' has-jax'; } }); MathJax.Hub.Config({ // Autonumbering by mathjax TeX: { equationNumbers: { autoNumber: "AMS" } } }); 
-</script>
-</script>
-{% endif %}
 </body>
 	<footer>
 	<p align="center" style="color:grey"><font size="3">Maintained by <a href="https://twitter.com/kapil_rc">@kapil_rc</a></font></p>
