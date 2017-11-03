@@ -77,11 +77,12 @@ Check this following image
 
 <h3>Formulae :</h3>
 **Simple Trapezoidal Rule**
-<br />Equation(1) :
-$$\int_{a}^{b}f(x)dx \approx (b-a)\left[\frac{f(a)+f(b)}{2}\right]$$<br />
+<br />
+$$\begin{equation}
+\int_{a}^{b}f(x)dx \approx (b-a)\left[\frac{f(a)+f(b)}{2}\right]\end{equation}$$<br />
 **Composite Trapezoidal Rule**<br />
-Equation(2) :
-$$\int_{a}^{b}f(x)dx \approx \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{k=1}^{n-1}f(a+kh)\right]$$ 
+Equation
+$$\begin{equation} \int_{a}^{b}f(x)dx \approx \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{k=1}^{n-1}f(a+kh)\right]\end{equation}$$ 
 
 <div class="divider"></div>
 <h3>Examples :</h3>
