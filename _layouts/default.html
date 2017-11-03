@@ -16,9 +16,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
   {% seo %}
 {% if site.mathjax == true %}
- <script type="text/javascript" async
-
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+ <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 
 MathJax.Hub.Config({
 
@@ -36,7 +34,7 @@ skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
 
 TeX: { equationNumbers: { autoNumber: "AMS" },
 
-extensions: ["AMSmath.js", "AMSsymbols.js"] }
+extensions: ["AMSmath.js", "AMSsymbols.js","autobold.js","AMScd.js"] }
 
 }
 
