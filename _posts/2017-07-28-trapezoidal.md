@@ -78,7 +78,8 @@ Check this following image
 <h3>Formulae :</h3>
 **Simple Trapezoidal Rule**
 <br />
-$$\begin{equation} \int_{a}^{b}f(x)dx \approx (b-a)\left[\frac{f(a)+f(b)}{2}\right]
+$$\begin{equation}
+\int_{a}^{b}f(x)dx \approx (b-a)\left[\frac{f(a)+f(b)}{2}\right]
 \end{equation}$$ 
 
 **Composite Trapezoidal Rule**
