@@ -9,7 +9,7 @@ layout: default
 </h1>
 </section>
 
-<section class="bg-green">
+<section class="bg-{{ site.bg }}">
 
 	<div class="catalogue">
 
@@ -18,9 +18,9 @@ layout: default
       <div>
 
         <h4><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h4>
-<h2><span style="color:green">¶</span><a href="{{ post.url | prepend: site.baseurl}}">
+<h3><span style="color:red">¶</span><a href="{{ post.url | prepend: site.baseurl}}">
 {{ post.title }}
-</a></h2>
+</a></h3>
 
       </div>
 

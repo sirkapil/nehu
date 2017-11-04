@@ -26,6 +26,9 @@ markdown:           kramdown
 # MathJax
 mathjax: true
 
+#Background
+bg: red
+
 # Navigation
 nav:
   - name:           "About"
