@@ -13,19 +13,9 @@ layout: default
 
       <div>
 
-        <h1><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <h4><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h4>
 
-        {{ post.title }}</h1>
-
-        <div class="catalogue-line"></div>
-
-
-        <p>
-
-          {{ post.content | truncatewords: 10 | strip_html }}
-
-        </p>
-
+       <h1>¶ {{ post.title }}</h1>
 
       </div>
 
