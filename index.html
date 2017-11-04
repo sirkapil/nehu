@@ -4,6 +4,12 @@ layout: default
 
 
 <section>
+<h1 align="center">
+<span style="color:grey">Kapil</span><span style="color:red">'s blog</span>
+</h1>
+</section>
+
+<section>
 
 	<div class="catalogue">
 
@@ -12,8 +18,8 @@ layout: default
       <div>
 
         <h4><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h4>
-<h2><a href="{{ post.url }}">
-¶ {{ post.title }}
+<h2><span style="color:green">¶</span><a href="{{ post.url | prepend: site.baseurl}}">
+{{ post.title }}
 </a></h2>
 
       </div>
