@@ -18,7 +18,7 @@ twitter:
 # URL
 baseurl:            "//sirkapil.github.io/Kiko"
 #baseurl:            "" #For Root Domain
-permalink:          /light/:title/
+permalink:          /:title/
 
 # Markdown
 markdown:           kramdown
