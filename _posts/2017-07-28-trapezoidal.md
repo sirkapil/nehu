@@ -47,9 +47,12 @@ $$ a < a+h < a+2h < \cdots < a+nh = b$$
 $$a+nh = b \\ h = \frac{b-a}{n}$$</center>
 
 Now, Apply Simple Trapezoidal Rule for each of the subinterval $$S_i$$.
-<p align="left">
-$$\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx $$
-$$ = \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$ 
+
+$$
+\int_{a}^{b} f(x) dx = \sum\limits_{i=1}^{n} \int_{S_i}{} f(x)dx 
+\\
+= \sum\limits_{i=1}^{n} \int_{a+(i-1)h}^{a+ih} f(x)dx $$ 
+
 $$ \approx \sum\limits_{i=1}^{n} h\left[\frac{f(a+(i-1)h)+f(a+ih)}{2}\right] $$ 
 $$ = \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
 $$ = \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
@@ -78,25 +81,28 @@ Check this following image
 <h3>Formulae :</h3>
 **Simple Trapezoidal Rule**
 <br />
-$$\begin{equation}
+\begin{equation}
 \int_{a}^{b}f(x)dx \approx (b-a)\left[\frac{f(a)+f(b)}{2}\right]
-\end{equation}$$ 
+\end{equation}
 
 **Composite Trapezoidal Rule**
 
-$$\begin{equation} \int_{a}^{b}f(x)dx \approx \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{k=1}^{n-1}f(a+kh)\right]\end{equation}$$ 
+\begin{equation} \int_{a}^{b}f(x)dx \approx \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{k=1}^{n-1}f(a+kh)\right]\end{equation}
 
 <div class="divider"></div>
 <h3>Examples :</h3>
 **Example (1)**
 Let's take a very simple example , integrating $$f(x)= sin(x)$$ over interval [0,2] by partition into two uniform subinterval (n=2). <br />
 **Answer**
-We are given $$a = 0 , b = 2 , n =2 \\$$
-Step Size (h) $$ =\frac{(b-a)}{n} \\ =\frac{(2-0)}{2} = 1$$
+We are given 
+$$a = 0 , b = 2 , n =2 \\$$
+
+$$h =\frac{(b-a)}{n} \\ =\frac{(2-0)}{2} = 1$$
 
 Now Using Composite Trapezoidal Formulae ,
 
 $$\int_{0}^{2} sin(x)dx \approx \frac{1}{2}\left[sin(0)+2 sin(1) + sin(2)\right] \\ \approx 1.2961$$
+
 <p align="right"> (Rounding off 4th Digit)
 </p>
 
@@ -104,9 +110,18 @@ Now let's check that how much error is there ?: <br />
 <div class="box2">
 <b>Error</b> <br /> |Actual Integral Value - Integral Value by Trapezoidal Rule|</div>
 <br /><br />
-**Actual Integral Value** $$= \int_{0}^{2}sin(x)dx \\= [-cos(x)]_{0}^{2} \\= -cos(2)+cos(0) $$ $$ \approx 1.4161$$<br />(rounding off 4th digit)<br />
+**Actual Integral Value** 
 
-**Error** $$ \approx |1.4161 - 1.2961| \\ = 0.12$$
+$$= \int_{0}^{2}sin(x)dx \\= [-cos(x)]_{0}^{2} \\= -cos(2)+cos(0) $$ 
+
+$$ \approx 1.4161$$
+
+<br />(rounding off 4th digit)<br />
+
+**Error** 
+
+$$ \approx |1.4161 - 1.2961| \\ = 0.12$$
+
 <br />
 
 ![Uniform Grid Composite Trapezoidal Rule integrating sine function over 0 to 2](//sirkapil.github.io/alpha/img/IMG_20170720_180952.jpg)
