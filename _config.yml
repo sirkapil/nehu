@@ -27,7 +27,7 @@ markdown:           kramdown
 mathjax: true
 
 #Background
-bg: red
+bg: green
 
 # Navigation
 nav:
