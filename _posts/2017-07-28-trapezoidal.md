@@ -60,7 +60,6 @@ $$ = \frac{h}{2}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$
 $$ = \frac{(b-a)}{2n}\left[f(a)+f(b)+2\sum\limits_{i=1}^{n-1}f(a+ih)\right] $$ 
 
 because $ h = \frac{b-a}{n}$
-</p>
 <br />
 <hr />
 <div class="box2">
