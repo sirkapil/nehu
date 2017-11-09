@@ -109,7 +109,11 @@ $$\int_{0}^{2} sin(x)dx \approx \frac{1}{2}\left[sin(0)+2 sin(1) + sin(2)\right]
 
 Now let's check that how much error is there ?: <br />
 <div class="box2">
-<b>Error</b> <br /> |Actual Integral Value - Integral Value by Trapezoidal Rule|</div>
+<b>Error</b> <br /> 
+
+$$\left|\text{Actual Integral Value} - \text{Integral Value by Trapezoidal Rule}\right|$$
+
+</div>
 <br /><br />
 **Actual Integral Value** 
 
@@ -121,7 +125,7 @@ $$ \approx 1.4161$$
 
 **Error** 
 
-$$ \approx |1.4161 - 1.2961| \\ = 0.12$$
+$$ \approx \left|1.4161 - 1.2961 \right|  = 0.12$$
 
 <br />
 
