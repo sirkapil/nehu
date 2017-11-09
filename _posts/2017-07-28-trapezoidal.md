@@ -104,7 +104,7 @@ Now Using Composite Trapezoidal Formulae ,
 
 $$\int_{0}^{2} sin(x)dx \approx \frac{1}{2}\left[sin(0)+2 sin(1) + sin(2)\right] \\ \approx 1.2961$$
 
-<p align="right"> (Rounding off 4th Digit)
+<p align="right"> (Rounding off 4th digit after decimal)
 </p>
 
 Now let's check that how much error is there ?: <br />
