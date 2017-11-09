@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact.html
 ---
 
-<form action="https://formspree.io/your@email.com"
+<form action="https://formspree.io/kapil05021996@gmail.com"
       method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
