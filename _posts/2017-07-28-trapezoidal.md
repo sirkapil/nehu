@@ -6,15 +6,18 @@ excerpt_separator: <!--more-->
 tags: [Numerical Method]
 ---
 <section>
-<p>This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p> <br />
+<p>This is one of the Newton-Cotes Formulae used for evaluating approximate numerical value of a definite integral (mostly used for finding out approximate area of any function filling to axis)  </p> 
+</section>
 <!--more-->
 <div class="hr"></div>
+<section>
 <h2>Why "Trapezoidal" Name ?</h2>
 It approximates the region under the graph as a trapezoid.Look at image of  trapezoidal rules in action.
-</section>
+
 ![trapezoidal in action](//sirkapil.github.io/alpha/img/IMG_20170720_174523.jpg)
 <br /><small>Shaded region in image shows the area calculated by trapezoidal rule for a random function.  </small>
 <div class="divider"></div>
+</section>
 <section>
 <h2>Accuracy : </h2>
 This Mehod is pretty accurate for evaluating approximate values of periodic functions over thier period.however it is not much accurate for non-periodic functions.Simple Trapezoidal rule[^1] even fails to integrate Quardratic polynomials so it has degree of precision 1 and  Composite Trapezoidal Rule[^2] fails to integrate a Cubic Polynomial so its degree of precision is 2.
@@ -24,12 +27,13 @@ This Mehod is pretty accurate for evaluating approximate values of periodic func
 <a href="//sirkapil.github.io/alpha/img/IMG_20170720_181014.jpg" data-lightbox="simple-trapezoidal" data-title="in action">
 ![simple Trapezoidal rule](//sirkapil.github.io/alpha/img/IMG_20170720_181014.jpg)
 </a>
-</section>
-<section>
+
 <h3> Composite Trapezoidal Rule:</h3>
 First , We do create partition for [a,b] where a and b are lower and upper limit of integral respectively.
 In Regular Grids or Uniform Partition, [a,b] interval is distributed into $$n$$ subintervals of same length[^3].
 **In General**, If [a,b] is distributed uniformly into n subintervals. Let $$S_i$$ be $$i^{th}$$ interval with step size(_h_).<br />
+
+</section>
 
 $$\\ S_1 = [a , a+h] $$ 
 
@@ -43,7 +47,7 @@ $$\\ \vdots $$
 
 $$\\ S_n = [a+(n-1)h , b]$$ 
 
-</section>
+
 
 <center>
 $$[a,b] = \bigcup_{i=1}^{n} S_i$$
