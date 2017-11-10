@@ -41,14 +41,10 @@ $$\int \frac{-y}{\sqrt{1 + y^2}}dy.     \cdots  eq(1)$$
 assuming $1+y^2 = t$ then we'll have $$2y dy = dt \\  ydy = \frac{dt}{2}$$ <br />
 putting value of $ydy$ into equation (1) ,we have
 
-$$ =\int \frac{-dt}{2 \sqrt{t}}
-$$
+$$ &=\int \frac{-dt}{2 \sqrt{t}}
+ \\ &=\frac{-1}{2} \int t^{-1/2} dt$$
 
-$$ =\frac{-1}{2} \int t^{-1/2} dt$$
-
-$$=  - t^{1/2} $$ 
-
-$$=  \sqrt{t} $$
+$$ &=  - t^{1/2} \\ &=  \sqrt{t} $$
 
 Replacing $t$ by $1+y^2$ , we have
 
