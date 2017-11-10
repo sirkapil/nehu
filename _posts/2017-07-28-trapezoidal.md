@@ -12,21 +12,22 @@ tags: [Numerical Method]
 <div class="hr"></div>
 <section>
 <h2>Why "Trapezoidal" Name ?</h2>
-It approximates the region under the graph as a trapezoid.Look at image of  trapezoidal rules in action.
+<p>It approximates the region under the graph as a trapezoid.Look at image of  trapezoidal rules in action.</p>
 
 ![trapezoidal in action](//sirkapil.github.io/alpha/img/IMG_20170720_174523.jpg)
+
 <br /><small>Shaded region in image shows the area calculated by trapezoidal rule for a random function.  </small>
 <div class="divider"></div>
 </section>
 <section>
 <h2>Accuracy : </h2>
-This Mehod is pretty accurate for evaluating approximate values of periodic functions over thier period.however it is not much accurate for non-periodic functions.Simple Trapezoidal rule[^1] even fails to integrate Quardratic polynomials so it has degree of precision 1 and  Composite Trapezoidal Rule[^2] fails to integrate a Cubic Polynomial so its degree of precision is 2.
+<p>This Mehod is pretty accurate for evaluating approximate values of periodic functions over thier period.however it is not much accurate for non-periodic functions.Simple Trapezoidal rule[^1] even fails to integrate Quardratic polynomials so it has degree of precision 1 and  Composite Trapezoidal Rule[^2] fails to integrate a Cubic Polynomial so its degree of precision is 2.</p>
 <div class="divider"></div>
 <h2> How it Works ? </h2>
 <h3>Simple Trapezoidal Rule:</h3>
 <a href="//sirkapil.github.io/alpha/img/IMG_20170720_181014.jpg" data-lightbox="simple-trapezoidal" data-title="in action">
-![simple Trapezoidal rule](//sirkapil.github.io/alpha/img/IMG_20170720_181014.jpg)
-</a>
+<p>![simple Trapezoidal rule](//sirkapil.github.io/alpha/img/IMG_20170720_181014.jpg)
+</a></p>
 
 <h3> Composite Trapezoidal Rule:</h3>
 First , We do create partition for [a,b] where a and b are lower and upper limit of integral respectively.
