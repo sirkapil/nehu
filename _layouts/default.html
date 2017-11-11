@@ -32,15 +32,45 @@
 	<script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
+});
 </script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { extensions: ["enclose.js", "color.js", "AMSmath.js", "AMSsymbols.js"] } 
 });
 </script>
-
-
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+TeX: {
+  extensions: ["noUndefined.js"],
+  noUndefined: {
+    attributes: {
+      mathcolor: "red",
+      mathbackground: "#FFEEEE",
+      mathsize: "90%"
+    }
+  }
+} });
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+  extensions: ["noErrors.js"],
+  noErrors: {
+    inlineDelimiters: ["",""],   // or ["$","$"] or ["\\(","\\)"]
+    multiLine: true,             // false for TeX on all one line
+    style: {
+      "font-size":   "90%",
+      "text-align":  "left",
+      "color":       "black",
+      "padding":     "1px 3px",
+      "border":      "1px solid"
+      // add any additional CSS styles that you want
+      //  (be sure there is no extra comma at the end of the last item)
+    }
+  }
+} });
+</script>
 
 
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
