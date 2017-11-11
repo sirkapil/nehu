@@ -26,6 +26,13 @@ markdown:           kramdown
 # MathJax
 mathjax: true
 
+# Responsive Image
+
+cloudinary: 
+     cloud_name:  sirkapil
+     verbose:     true
+     
+
 #Background
 bg: red
 
@@ -58,3 +65,4 @@ defaults:
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-cloudinary
