@@ -29,7 +29,7 @@ mathjax: true
 # Responsive Image
 
 cloudinary: 
-     cloud_name:  sirkapil
+   cloud_name: sirkapil
      verbose:     true
      presets:
        default:
