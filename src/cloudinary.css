@@ -1,0 +1,21 @@
+article {
+  figure, img {
+    margin: 2em auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.logo {
+  display: block;
+  margin: 1em auto;
+  max-width: 50%;
+  height: auto;
+
+  @media (min-width: 40em) {
+    max-width: 25%;
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+}
