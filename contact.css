@@ -109,11 +109,11 @@ input:required:invalid {
 }
 
 .send-icn {
-  fill: #ff4500
+  fill: #15B6B1
 }
 
 .send-icn:hover {
-  fill: #15B6B1;
+  fill: none;
   cursor: pointer;
 }
 
