@@ -8,5 +8,5 @@ permalink: /about/
 <p>Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
 </p>
 <p> here is github repository to the theme
-
+</p>
 
