@@ -1,13 +1,3 @@
-body {
-  font-family: 'Lato', georgia;
-  font-size: 20px;
-  color: #F42E07;
-  background-color: #EFDF00;
-  text-align: center;
-  font-weight: 300;
-  -webkit-font-smoothing: antialiased;
-}
-
 #contact-form {
   max-width: 95%;
   margin: 0 auto;
