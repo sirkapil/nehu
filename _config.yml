@@ -7,7 +7,7 @@ name:               "Kapil"
 description:        "Lightweight Personal Blog , Focused on content "
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//sirkapil.me/"
+url:                ""
 author:             "sirkapil"
 twitter:
   username:         "kapil_rc"
