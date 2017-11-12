@@ -36,17 +36,18 @@ textarea {
 }
 
 textarea:focus {
-  background-color: rgba(255, 255, 255, 0.2);
-  border: 2px dashed rgba(255, 255, 255, 1);
+  background-color: none;
+  border: #ff4500;
 }
 
 textarea:focus:required:valid {
-  border: 2px solid #ff4500;
-  border-bottom: 2px solid #ff4500;
+  border: 2px solid #15B6B1
+;
+  border-bottom: 2px solid #15B6B1;
 }
 
 textarea:required:valid {
-  border-bottom: 2px solid #15B;
+  border-bottom: 2px solid #15B6B1;
 }
 
 input {
@@ -108,16 +109,16 @@ input:required:invalid {
 }
 
 .send-icn {
-  fill: rgba(255, 255, 255, 1)
+  fill: #15B6B1
 }
 
 .send-icn:hover {
-  fill: rgba(0, 0, 0, 1);
+  fill: #15B6B1;
   cursor: pointer;
 }
 
 button {
-  background: none;
+  background: #15B6B1;
   border: #ff4500;
   outline: #15B6B1;
   margin: 2vmax;
