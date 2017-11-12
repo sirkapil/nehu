@@ -46,7 +46,7 @@ textarea:focus:required:valid {
 }
 
 textarea:required:valid {
-  border-bottom: 2px solid #ff4500;
+  border-bottom: 2px solid #15B;
 }
 
 input {
@@ -64,11 +64,11 @@ input:focus {
 }
 
 input:required:valid {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid #15B6B1;
 }
 
 input:required:invalid {
-  color: rgba(255, 255, 255, 0.5);
+  color: #ff4500;
 }
 
 ::-webkit-input-placeholder {
@@ -82,7 +82,7 @@ input:required:invalid {
   /* Firefox 18- */
   
   text-align: center;
-  color: rgba(255, 255, 255, 0.4);
+  color: #15B6B1;
   font-style: italic;
   font-weight: 400;
 }
@@ -117,9 +117,9 @@ input:required:invalid {
 }
 
 button {
-  background: #ff4500;
-  border: none;
-  outline: none;
+  background: none;
+  border: #ff4500;
+  outline: #15B6B1;
   margin: 2vmax;
 }
 
