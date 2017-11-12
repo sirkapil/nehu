@@ -109,7 +109,7 @@ input:required:invalid {
 }
 
 .send-icn {
-  fill: none
+  fill: #ff4500
 }
 
 .send-icn:hover {
