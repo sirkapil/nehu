@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            "//sirkapil.me/"
+baseurl:            "//sirkapil.me"
 #baseurl:            "" #For Root Domain
 permalink:          /:title/
 
