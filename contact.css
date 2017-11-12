@@ -113,7 +113,7 @@ input:required:invalid {
 }
 
 .send-icn:hover {
-  fill: none;
+  fill: rgba(0, 0, 0, 1);
   cursor: pointer;
 }
 
