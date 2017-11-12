@@ -1,15 +1,15 @@
 body {
   font-family: 'Lato', georgia;
-  font-size: 25px;
-  color: rgba(255, 255, 255, 1);
-  background-color: rgba(236, 181, 62, 0.95);
+  font-size: 20px;
+  color: #F42E07;
+  background-color: #EFDF00;
   text-align: center;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
 }
 
 #contact-form {
-  max-width: 90%;
+  max-width: 95%;
   margin: 0 auto;
 }
 
