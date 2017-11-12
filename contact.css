@@ -113,7 +113,7 @@ input:required:invalid {
 }
 
 .send-icn:hover {
-  fill: rgba(0, 0, 0, 1);
+  fill: #15B6B1;
   cursor: pointer;
 }
 
@@ -121,7 +121,7 @@ button {
   background: #fffff8;
   border: #ff4500;
   outline: #15B6B1;
-  margin: 2vmax;
+  margin: 1vmax;
 }
 
 button:hover small {
