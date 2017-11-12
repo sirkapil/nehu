@@ -31,11 +31,11 @@ cloudinary:
   cloud_name: "sirkapil"
   presets:
     default:
-      min_width: auto
-      max_width: auto
-      fallback_max_width: 800
+      min_width: 100
+      max_width: 500
+      fallback_max_width: 480
       steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
+      sizes: "(min-width: 50rem) 40rem, 45vw"
 
 #Background
 bg: red
