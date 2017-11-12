@@ -16,7 +16,7 @@ input {
   text-align: center;
   background: none;
   font-weight: 700;
-  font-family: 'Lato', georgia;
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-size: 25px;
   color: #ff4500;
   max-width: 90%;
@@ -118,7 +118,7 @@ input:required:invalid {
 }
 
 button {
-  background: rgba(0, 0, 0, 1);
+  background: #fffff8;
   border: #ff4500;
   outline: #15B6B1;
   margin: 2vmax;
