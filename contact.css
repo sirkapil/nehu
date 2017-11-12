@@ -41,21 +41,21 @@ textarea:focus {
 }
 
 textarea:focus:required:valid {
-  border: 2px solid rgba(255, 255, 255, 0);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border: 2px solid #ff4500;
+  border-bottom: 2px solid #ff4500;
 }
 
 textarea:required:valid {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid #ff4500;
 }
 
 input {
-  border-bottom: 2px dashed rgba(255, 255, 255, 0.5);
+  border-bottom: 2px dashed #ff4500;
 }
 
 input:required,
 textarea:required {
-  border-bottom: 2px dashed rgba(255, 255, 255, 0.5);
+  border-bottom: 2px dashed #ff4500;
 }
 
 input:focus {
@@ -117,7 +117,7 @@ input:required:invalid {
 }
 
 button {
-  background: none;
+  background: #ff4500;
   border: none;
   outline: none;
   margin: 2vmax;
@@ -135,7 +135,7 @@ small {
 .website {
   opacity: 1;
   font-size: 16px;
-  color: white;
+  color: #ff4500;
   position: relative;
   text-align: center;
   display: block;
@@ -144,5 +144,5 @@ small {
 }
 
 .website a {
-  color: white;
+  color: yellow;
 }
