@@ -10,6 +10,7 @@ layout: default
 </p>
   
   <p>
+{{ post.date | date: "%B %d, %Y" }}<br />
 {% for author in page.author %}
  {{ page.author }}
 {% endfor %}
