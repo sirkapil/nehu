@@ -3,8 +3,8 @@
   <head>
     <meta charset='utf-8'>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-    <link rel='stylesheet' href='https://sirkapil.me/tufte.css' type='text/css'>
-    <link rel='stylesheet' href='https://sirkapil.me/latex.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.baseurl }}/tufte.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.baseurl }}/latex.css' type='text/css'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if site.mathjax == true %}
 <script type="text/x-mathjax-config">
