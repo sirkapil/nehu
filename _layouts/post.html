@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<header class="masthead">
+<section>
   <h1 id="tufte-css">
     {{ page.title }}
   </h1>
 <p class="subtitle"> {{ page.subtitle }}
 </p>
-  
-  <p>
+<p>
 {{ page.date | date: "%B %d, %Y" }}<br />
 {% for author in page.author %}
  {{ page.author }}
 {% endfor %}
-  </p> 
-</header><hr />
+</p> 
+<section>
+<hr />
 <section>
 
   {{ content }}
@@ -23,6 +23,6 @@ layout: default
 </section>
 <hr />
 
-<p><a href="{{ site.baseurl }}?back">Back to Posts!</a></p>
+<p><a href="{{ site.baseurl }}?backbutton">Back to Posts!</a></p>
 <hr />
 
