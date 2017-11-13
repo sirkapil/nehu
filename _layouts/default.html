@@ -1,6 +1,30 @@
 <!DOCTYPE html>
   <html lang='en'>
   <head>
+<script type="text/javascript">
+if (screen.width < 574) {
+var ref = document.referrer;
+var urls = new Array("https://sirkapil.me","https://pc.sirkapil.me");
+var n = ref.match(urls[0]);
+var m = ref.match(urls[1]);
+if ((m!==null) || (n!==null)) {
+stop;
+}
+else if (ref=='') {
+var r = confirm("we have a better optimised site for tablet and pc users. \nClick \"OK\" to visit that site. ");
+if (r==true) {
+window.location = "https://pc.sirkapil.me";
+}
+else {
+stop ;
+}
+}
+else
+{
+window.location = "https://pc.sirkapil.me";
+}
+}
+</script>
     <meta charset='utf-8'>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <link rel='stylesheet' href='{{ site.baseurl }}/tufte.css' type='text/css'>
