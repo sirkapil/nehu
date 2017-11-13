@@ -1,17 +1,11 @@
 <!DOCTYPE html>
-  <html lang="en">
+  <html lang='en'>
   <head>
-    <meta charset="utf-8"/>
-    <title>Resume</title>
-    <link rel="stylesheet" href="tufte.css"/>
-    <link rel="stylesheet" href="latex.css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}
-</title>
-
-  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
-  {% seo %}
+    <meta charset='utf-8'>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <link rel='stylesheet' href='https://sirkapil.me/tufte.css' type='text/css'>
+    <link rel='stylesheet' href='https://sirkapil.me/latex.css' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if site.mathjax == true %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
