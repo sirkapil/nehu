@@ -2,34 +2,9 @@
 layout: default
 ---
 
-
 <section>
 <h1 align="center">
 <span style="color:grey">Kapil</span><span style="color:red">&#39;s blog</span>
 </h1>
 </section>
 
-<section>
-
-	<div>
-
-  {% for post in site.posts %}
-
-      <div>
-
-        <h3><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h3>
-<h2><span style="color:green">•</span><a href="{{ post.url | prepend: site.baseurl }}">
-{{ post.title }}
-</a></h2>
-
-      </div>
-
-    
-
-<hr />
-
-  {% endfor %}
-
-</div>
-
-</section>
