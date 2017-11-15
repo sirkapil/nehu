@@ -1,6 +1,6 @@
 ---
 title: Class Schedule
-layout: table
+layout: printer-friendly
 permalink: /schedule/
 ---
 
