@@ -1,7 +1,7 @@
 ---
 title: Class Schedule
 layout: table
-permalink: schedule
+permalink: /schedule/
 ---
 
 
