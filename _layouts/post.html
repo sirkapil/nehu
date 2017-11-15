@@ -9,7 +9,7 @@ layout: printer-friendly
 <p class="subtitle"> {{ page.subtitle }}
 </p>
 <p>
-{{ page.date | date: "%B %d, %Y" }}<br />
+Last Edited:<i>{{ page.date | date: "%B %d, %Y" }}</i><br />
 {% for author in page.author %}
  {{ page.author }}
 {% endfor %}
