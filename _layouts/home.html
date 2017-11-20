@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <link rel='stylesheet' href='{{ site.baseurl }}/tufte.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.baseurl }}/latex.css' type='text/css'>
+<!-- Chrome, Firefox OS and Opera --> 
+<meta name="theme-color" content="#ff4500"> 
+<!-- Windows Phone --> 
+<meta name="msapplication-navbutton-color" content="#ff4500">
+ <!-- iOS Safari --> 
+<meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
+<link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="//sirkapil.me/img/icon/icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<article>
+  
+    {{ content }}
+
+</article>
+</body>
+</html>
