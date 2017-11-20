@@ -80,10 +80,9 @@ MathJax.Hub.Config({
 
 </article>
 <footer>
-<p><span style="text-align:left;">Last Edited: <i>{{ page.date | date: "%B %d, %Y" }}</i>
-</span>
-<span style="text-align:right;">Author: <i>{% if page.author %}{{ page.author }}{% else %}Kapil Chaudhary{% endif %}</i>
-</span>
+<p><span style="text-align:left;">Last Edited: <i>{{ page.date | date: "%d %b, %Y" }}</i>
+</p>
+<p style="text-align:right">Author:  <i>{% if page.author %}{{ page.author }}{% else %}Kapil Chaudhary{% endif %}</i>
 </p>
 </footer>
 </body>
