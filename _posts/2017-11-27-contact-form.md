@@ -100,7 +100,7 @@ I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a fe
 </section>
 <section class="bg-red">
 <h3><a name="customcss"> Custom CSS</a> </h3>
-<p>you will be thinking that how background color of this section changed to red as previous section was having almost white background ? i've modified a part of <b><i>tufte css</i></b> to change its background color to light red . this section is using <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
+<p>I've modified a part of <b><i>tufte css</i></b> to change its background color to light red . you can use <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
 </section>
  
 {% highlight html %}
