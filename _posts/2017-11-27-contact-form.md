@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Contact Form
-subtitle: A Beginners Approach
+subtitle: A Beginner's Approach
 author: Kapil Chaudhary
 ---
-<p>Today , i'm going to tell you how i created this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>.
+<p>Today , i'm going to tell you about this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>. 
 You can easily check it's source code through any online source code checker or by pressing CTRL+U (pc users). However, i mostly use w3 to inspect the source code.<br />
 Online source code is here: </p><ol>
 <li> <a href="https://validator.w3.org/nu/?showsource=yes&showimagereport=yes&doc=https%3A%2F%2Fcontact.sirkapil.me%2F" target="_blank">w3.org</a></li>
@@ -15,39 +15,37 @@ Online source code is here: </p><ol>
 <section>
 <h2> Form Code </h2>
 </section>
-<pre class="code">
-<code>
-   &lt;form id="contactform" action="#" name="contactform" netlify>
-&lt;section class="bg-red">
-  &lt;h2>Dear Kapil,&lt;/h2>
-  &lt;p>My
-    &lt;label for="name">name&lt;/label> is
-    &lt;input type="text" name="name" id="name" minlength="3" required>&lt;/p>
-&lt;/section>
-  &lt;p>My
-    &lt;label for="email">email address&lt;/label> is
-    &lt;input type="email" name="email" id="email" required>
-  &lt;/p>&lt;br />
-  &lt;p>My
-    &lt;label for="number">mobile number&lt;/label> is
-    &lt;input type="tel" name="number" id="number" minlength="9" maxlength="14" required>
-  &lt;/p>&lt;br />
-  &lt;p> I have a
-    &lt;label for="your-message">message&lt;/label> for you,&lt;/p>
+{% highlight html %}
+  <form id="contactform" action="#" name="contactform" netlify>
+<section class="bg-red">
+  <h2>Dear Kapil,</h2>
+  <p>My
+    <label for="name">name</label> is
+    <input type="text" name="name" id="name" minlength="3" required></p>
+</section>
+  <p>My
+    <label for="email">email address</label> is
+    <input type="email" name="email" id="email" required>
+  </p><br />
+  <p>My
+    <label for="number">mobile number</label> is
+    <input type="tel" name="number" id="number" minlength="9" maxlength="14" required>
+  </p><br />
+  <p> I have a
+    <label for="your-message">message</label> for you,</p>
 
-  &lt;p>
-    &lt;textarea name="your-message" id="your-message" rows="4" maxlength="10000" class="expanding" required>&lt;/textarea>
-    &lt;/p>
-    &lt;button type="submit">
-      &lt;svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
-        &lt;path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
+  <p>
+    <textarea name="your-message" id="your-message" rows="4" maxlength="10000" class="expanding" required></textarea>
+    </p>
+    <button type="submit">
+      <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
+        <path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
 	l-5.1,6.7L16.8,20.4z M34.4,25.4l-8.1-13.1L25,29.6L34.4,25.4z M35.2,13.2l8.1,13.1L70,9.9L35.2,13.2z" />
-      &lt;/svg>
-      &lt;small>&lt;span style="color:#15B6B1">Launch&lt;/span>&lt;/small>
-    &lt;/button>
-   &lt;/form>
-</code>
-</pre>
+      </svg>
+      <small><span style="color:#15B6B1">Launch</span></small>
+    </button>
+   </form>
+{% endhighlight %}
 <section>
 <h2>This Form Uses :</h2>
 <ul>
@@ -102,16 +100,18 @@ I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a fe
 <h3><a name="customcss"> Custom CSS</a> </h3>
 <p>you will be thinking that how background color of this section changed to red as previous section was having almost white background ? i've modified a part of <b><i>tufte css</i></b> to change its background color to light red . this section is using <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
 </section>
- <pre>
- <code>
-&lt;section class="bg-red"&gt;
-</code>
-</pre>
+ 
+{% highlight html %}
+
+<section class="bg-red">
+
+{% endhighlight %}
 <section>
 <h4>Code</h4>
 <p>I'm giving you code of <b><i>custom css</i></b>. you can change the background color via hsla or hex format. use any color picker tool and modify the <b><i>custom css</i></b> for any colourful background.</p>
-<pre class="code">
-<code>
+
+{% highlight css %}
+
 .bg-red {
   box-shadow: 0 0 200px 100px hsla(9, 100%, 95%, 1);
   background-color: hsla(9, 100%, 95%, 1);
@@ -147,8 +147,9 @@ body {
   transform-origin: bottom right;
   /* background-color: hsla(60, 100%, 97%, 1); /*/
 }
-</code>
-</pre>
+
+{% endhighlight %}
+
  </section>
 <section>
 <h3> Final Words </h3>
