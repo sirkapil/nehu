@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contact Form
-subtitle: A Beginner's Approach
+subtitle: A Beginner's Guide
 author: Kapil Chaudhary
 ---
 <p>Today , i'm going to tell you about this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>. 
