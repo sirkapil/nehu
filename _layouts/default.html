@@ -1,7 +1,6 @@
 <!DOCTYPE html>
   <html lang='en'>
   <head>
-</script>
     <meta charset='utf-8'>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <link rel='stylesheet' href='{{ site.baseurl }}/tufte.min
@@ -15,7 +14,7 @@ css' type='text/css'>
  <!-- iOS Safari --> 
 <meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
 <link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="//sirkapil.me/img/icon/icon.png">
-
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {% if site.mathjax == true %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -89,5 +88,6 @@ MathJax.Hub.Config({
 document.getElementById("pageurl").innerHTML =
 "" + window.location.href;
 </script>
+<script> if (window.netlifyIdentity) { window.netlifyIdentity.on("init", user => { if (!user) { window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; }); } }); } </script>
 </body>
 </html>

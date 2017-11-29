@@ -12,13 +12,15 @@
  <!-- iOS Safari --> 
 <meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
 <link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="//sirkapil.me/img/icon/icon.png">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 <article>
   
     {{ content }}
 
-</article>
+</article>
+<script> if (window.netlifyIdentity) { window.netlifyIdentity.on("init", user => { if (!user) { window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; }); } }); } </script>
 </body>
 </html>
