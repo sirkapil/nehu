@@ -1,0 +1,4 @@
+---
+layout: user
+permalink: /user/
+---
