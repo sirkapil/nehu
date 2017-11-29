@@ -11,20 +11,14 @@ layout: page
 
 <section>
 
-  {% for post in site.posts %}
-
-        <h4><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h4>
-<h2><span style="color:green">•</span><a href="{{ post.url | prepend: site.baseurl }}">
-{{ post.title }}
-</a></h2>
-
-     
-
-    
-
+  <ul> 
+{% for post in site.posts %}
+  <li>
+ <a href="{{ post.url }}">{{ post.title }}</a> 
+</li> 
+{% endfor %} 
+</ul>
 <hr />
-
-  {% endfor %}
-
-
+<hr />
+<hr />
 </section>
