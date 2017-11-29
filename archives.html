@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: printer-friendly
 ---
 
 
@@ -11,18 +11,14 @@ layout: default
 
 <section>
 
-	<div>
-
   {% for post in site.posts %}
 
-      <div>
-
-        <h3><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h3>
+        <h4><time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time></h4>
 <h2><span style="color:green">•</span><a href="{{ post.url | prepend: site.baseurl }}">
 {{ post.title }}
 </a></h2>
 
-      </div>
+     
 
     
 
@@ -30,6 +26,5 @@ layout: default
 
   {% endfor %}
 
-</div>
 
 </section>
