@@ -9,9 +9,15 @@
     <meta name="referrer" content="no-referrer">
     <meta name="description" content="{{ site.description }}">
 
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400|Old+Standard+TT:400' rel='stylesheet' type='text/css'>
- 
-    <link rel='stylesheet' type='text/css' href='//cdn.sirkapil.me/static.css' />
+    <link rel='stylesheet' href='{{ site.baseurl }}/tufte.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.baseurl }}/latex.css' type='text/css'>
+<!-- Chrome, Firefox OS and Opera --> 
+<meta name="theme-color" content="#ff4500"> 
+<!-- Windows Phone --> 
+<meta name="msapplication-navbutton-color" content="#ff4500">
+ <!-- iOS Safari --> 
+<meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
+<link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="//sirkapil.me/img/icon/icon.png">
 
     <link rel="icon" type="image/png" href="/favicon_16x16.png" sizes="16x16">
     <link rel="icon" type="image/png" href="/favicon_32x32.png" sizes="32x32">
@@ -35,5 +41,63 @@
  
     </div>
     </section>
- </body>
+{% if site.mathjax == true %}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+	<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { extensions: ["enclose.js", "color.js", "AMSmath.js", "AMSsymbols.js"] } 
+});
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+TeX: {
+  extensions: ["noUndefined.js"],
+  noUndefined: {
+    attributes: {
+      mathcolor: "red",
+      mathbackground: "#FFEEEE",
+      mathsize: "90%"
+    }
+  }
+} });
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+  extensions: ["noErrors.js"],
+  noErrors: {
+    inlineDelimiters: ["",""],   // or ["$","$"] or ["\\(","\\)"]
+    multiLine: true,             // false for TeX on all one line
+    style: {
+      "font-size":   "90%",
+      "text-align":  "left",
+      "color":       "black",
+      "padding":     "1px 3px",
+      "border":      "1px solid"
+      // add any additional CSS styles that you want
+      //  (be sure there is no extra comma at the end of the last item)
+    }
+  }
+} });
+</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+ </script>
+{% endif %}
+</body>
 </html>
