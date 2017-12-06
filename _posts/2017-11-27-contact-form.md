@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: post
 title: Contact Form
 subtitle: A Beginner's Guide
 author: Kapil Chaudhary
