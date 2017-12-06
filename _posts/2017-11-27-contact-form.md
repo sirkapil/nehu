@@ -1,5 +1,5 @@
 ---
-layout: printer-friendly
+layout: static
 title: Contact Form
 subtitle: A Beginner's Guide
 author: Kapil Chaudhary
