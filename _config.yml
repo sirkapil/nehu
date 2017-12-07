@@ -52,3 +52,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-cloudinary
+
+
+exclude: 
+      ["_dev",
+      "gulpfile.js",    
+      "node_modules",
+      "package.json"]
