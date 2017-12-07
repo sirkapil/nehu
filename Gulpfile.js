@@ -1,14 +1,72 @@
-var gulp = require('gulp'); var pug = 
-require('gulp-pug'); var less = 
-require('gulp-less'); var minifyCSS = 
-require('gulp-csso'); gulp.task('html', function(){ return gulp.src(
-'client/templates/*.pug'
-) .pipe(pug()) .pipe(gulp.dest(
-'build/html'
-)) }); gulp.task('css', function(){ return gulp.src(
-'client/templates/*.less'
-) .pipe(less()) .pipe(minifyCSS()) .pipe(gulp.dest(
-'build/css'
-)) }); gulp.task('default', 
-[ 'html', 'css' ]
-);
+var gulp = require('gulp'),
+
+    gutil = require('gulp-util'),
+
+    sass = require('gulp-sass'),
+
+    autoprefixer = require('gulp-autoprefixer'),
+
+    minifycss = require('gulp-minify-css'),
+
+    rename = require('gulp-rename'),
+
+    shell = require('gulp-shell'),
+
+    livereload = require('gulp-livereload'),
+
+    lr = require('tiny-lr'),
+
+    server = lr();
+
+
+gulp.task('sass', function() {
+
+  return gulp.src('sass/style.scss')
+
+    .pipe(sass())
+
+    .pipe(autoprefixer( 'last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4' ))
+
+    .pipe(minifycss())
+
+    .pipe(rename('style.min.css'))
+
+    .pipe(gulp.dest('public/css'))
+
+    .pipe(gulp.dest('_site/public/css'))
+
+    .pipe(livereload(server));
+
+});
+
+
+gulp.task('build', shell.task([ 'jekyll build' ]));
+
+
+gulp.task('watch', function() {
+
+  server.listen(35729, function(err) {
+
+    if (err)
+
+      return console.log(err);
+
+
+    gulp.watch('sass/**/*.scss', ['sass']);
+
+
+    gulp.watch([
+
+      '_includes/**/*.html',
+
+      '_layouts/**/*.html',
+
+      '_posts/**/*'
+
+    ], ['build']);
+
+
+  });
+
+});
+
