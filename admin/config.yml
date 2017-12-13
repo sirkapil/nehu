@@ -1,7 +1,6 @@
 backend:
  name: git-gateway
  base_url: https://api.netlify.com
- site_domain: talks.sirkapil.me
  accept_roles: 
        - admin 
        - editor
@@ -18,8 +17,6 @@ collections:
     filter:
       field: language
       value: en
-    fields:
-      - {label: "Language", name: "language"}
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
