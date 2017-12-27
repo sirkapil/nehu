@@ -1,5 +1,6 @@
 backend:
- name: git-gateway
+ name: github
+ repo: sirkapil/Kiko
  branch: master
 
 publish_mode: editorial_workflow
@@ -21,7 +22,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Language", name: "language"}
+      - {label: "mathjax", name: "mathjax", widget: "text", default: "false"}
+      - {label: "Language", name: "language", widget: "hidden", default: " english"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
     card: {type: "image", image: "image", text: "title"}
