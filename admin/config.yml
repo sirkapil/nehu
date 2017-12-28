@@ -4,7 +4,7 @@ backend:
  branch: master
 
 publish_mode: editorial_workflow
-media_folder: "uploads/user"
+media_folder: "uploads/user/media"
 public_folder: "uploads/public"
 
 collections:
@@ -22,7 +22,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "mathjax", name: "mathjax", widget: "text", default: "false"}
+      - {label: "mathjax", name: "mathjax", widget: "string", default: "false"}
       - {label: "Language", name: "language", widget: "hidden", default: " english"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
