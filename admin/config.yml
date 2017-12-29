@@ -20,10 +20,10 @@ collections:
       - {label: "layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "mathjax", name: "mathjax", widget: "string", default: "false"}
       - {label: "Language", name: "language", widget: "hidden", default: " english"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
     card: {type: "image", image: "image", text: "title"}
