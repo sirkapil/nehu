@@ -23,4 +23,4 @@ _Falling in love :_ Group Homomorphism
 
 > Intresting  thing is : Cyclic groups expect unique trivial homomorphism from abelian groups  and point fingers at simple groups for multiple non-trivial homomorphisms !
 
-That's why simple groups are _so simple_ , Abelian Groups are so _commutative_ and cyclic one's are_ too much cyclic !_
+That's why simple groups are _so simple_ , Abelian Groups are so _commutative_ and cyclic one's are _too much cyclic._
