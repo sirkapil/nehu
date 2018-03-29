@@ -20,8 +20,7 @@ _Real Men :_ Simple Group (
 
 _falling in love :_ Group Homomorphism
 
-<hr /> 
 
-**Intresting  thing is : **Cyclic groups expect unique trivial homo from abelian groups  and point fingers at simple groups for multiple non-trivial homo.
+>**Intresting  thing is : **Cyclic groups expect unique trivial homo from abelian groups  and point fingers at simple groups for multiple non-trivial homo.
 
 That's why simple groups are _so simple_ , Abelian Groups are so _commutative_ and cyclic one's are_ too much cyclic !_
