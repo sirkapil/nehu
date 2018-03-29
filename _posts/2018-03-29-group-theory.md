@@ -18,9 +18,9 @@ of abelian groups.
 _Real Men :_ Simple Group (
  non-abelian and higher orders)
 
-_falling in love :_ Group Homomorphism
+_Falling in love :_ Group Homomorphism
 
 
->**Intresting  thing is : **Cyclic groups expect unique trivial homo from abelian groups  and point fingers at simple groups for multiple non-trivial homo.
+> Intresting  thing is : Cyclic groups expect unique trivial homomorphism from abelian groups  and point fingers at simple groups for multiple non-trivial homomorphisms !
 
 That's why simple groups are _so simple_ , Abelian Groups are so _commutative_ and cyclic one's are_ too much cyclic !_
