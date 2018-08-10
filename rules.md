@@ -1,5 +1,6 @@
 ---
 title: Rules ☝
+permalink: /rules.html
 ---
 
 Rules are aimple nd follow them.
