@@ -1,7 +1,7 @@
 ---
 title: Rules ☝
 permalink: /rules.html
-layout: printer-friendly
+layout: page
 ---
 <hr />
 Rules are simple and pleaae follow them.
