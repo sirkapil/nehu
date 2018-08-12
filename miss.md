@@ -27,7 +27,7 @@ album with you. Don’t worry,I'm sending a picture of mine in envelope as I kn
 Now, Chamki, Take a deep breath and smile now😊.I'm missing you too and
 send me a text right now.
 
-Lots of Love
+Lots of Love 
 ❤❤❤
 
 [photo]: https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/39130024_146787332900481_2960427524414242816_n.jpg?_nc_cat=0&efg=eyJpIjoidCJ9&oh=eb1815c162a5af068f77c35718879bf3&oe=5C006F67 "Kapil"
