@@ -8,9 +8,9 @@ permalink: /miss.html
 ### Dear Chamki,
 
 I knew that you'll open this up and you'll have to open this many times
-and I’m sorry that you’ve to miss me as I’m not there around. But Trust me If you are missing me then no doubt I’m missing you too. Seriously
-Sweetheart, I miss you every minute , hour and everyday. I miss you 
-every time, we're not together. Honestly, I don’t like to be away from you. I want to be always with you. But we've to be apart.
+and I’m sorry that you’ve to miss me as I’m not there around. But trust me If you are missing me then no doubt i’m missing you too.
+
+Seriously my queen👰❤, I miss you every minute , hour and everyday. I miss you every time, we're not together. Honestly, I don’t like to be away from you. I want to be always with you. But we've to be apart.
 I don’t want you to miss me. We need to be strong , right ? Even, I can’t 
 wait to see you and I know I'll see you some day. Wait for me !
 
@@ -20,12 +20,13 @@ believe me , chamki ! I’m forever yours. I still love you with my full heart�
 
 I know you don’t have any picture with me, even last day of college I 
 denied for picture with you. Babe, I wanted to share a whole wedding 
-album with you. Don’t worry,I'm sending a picture of mine in envelope as I know u don’t have any picture of me. I rarely (almost never)upload photos on fb and insta as i have picture collection on google cloud and don’t care much about social attention.
+album with you. Don’t worry,I'm sending a picture of mine in envelope as I know u don’t have any picture of me. I rarely (almost never)upload photos on fb and Instagram as i have picture collection on google cloud and don’t care much about social attention.
 
 ![kapil][photo]
 
-Take a deep breath and smile now😊, chamki. I'm missing you too and
+Now, Chamki, Take a deep breath and smile now😊.I'm missing you too and
 send me a text right now.
+
 Lots of Love
 ❤❤❤
 
