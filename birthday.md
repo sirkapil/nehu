@@ -37,5 +37,22 @@ fula lene wali. Hairstyle bhi change mat krna. Anyways, I know you'll look perfe
 
 
 
+And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe. Cake khayegi ?
+
+
+
+I hope you liked the cake. I have to arrange it and other things right now in this night. All could be possible as mama and mami aren’t at home, gone to nansar. Thanks 2 them nd this city where shops are open till midnight.
+Anyways , I’ll not be able to bother you at 12 AM with calls or messages. So I’m leaving a voice message for you. you can hear it here at this URL : [https://neha.netlify.com/birthday.mp3](https://neha.netlify.com/birthday.mp3)
+
+Also, I hope you’ll be having an amazing day. I wish you’ll get so many gifts , wishes on this 
+beautiful day. Go out with your friends and eat cake (ye wala to main kha jaunga subah tak 😁) Eat lots of cake🎂 without caring about food poisoning and your diet.
+
+Ek baar fir se happy birthday🍰 and Enjoy this special day 😀
+
+Lots of Love 
+❤❤❤
+
+
+
 
 
