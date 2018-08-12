@@ -1,5 +1,5 @@
 ---
-title: Open When Need cake🎂
+title: Open When need cake🍰
 permalink: /birthday.html
 layout: page
 ---
@@ -7,7 +7,7 @@ layout: page
 
 ### Heyyy Chamki,
 
-It's 20th September ,your birthday🎉🎂🎊 and this one day is all about you. You are 22 years old now and here are 22 wishes from my side. I am feeling really great that you became a part of my life in these years. So here i wish with my true heart❤ :
+It's 20th September ,your birthday🎉🎂🎊 and this one day is all about you. You are 22 years old now and here are 22 wishes from my side. I am feeling really great😎 that you became a part of my life in these years. So here i wish with my true heart❤ :
 
 + I wish you never look back on regrets or lost opportunities.✌
 + I wish your keep smiling & your khi-khi 😁 remains forever.
@@ -30,9 +30,9 @@ rha h..😆)
 + I wish your madness keep alive surroundings.😎
 + I wish you never give up on your goals in life.💪
 + I wish you get sooo much love from those all whom you love ❤
-+ I wish you get a DSLR camera soon.
++ I wish you get a DSLR camera soon.📷
 + I wish you remain unchanged, (nakhre wali, chhoti chhoti baat pr bachhe ki tarah muhh 
-fula lene wali. Hairstyle bhi change mat krna. Anyways, I know you'll look perfect in every hairstyle either curly or straight. Jesi bhi ho, bht achhi lagti ho tum ❤)
+fula lene wali. Hairstyle bhi change mat krna💇, Anyways, I know you'll look perfect in every hairstyle either curly or straight. Jesi bhi ho, bht achhi lagti ho tum👰❤)
 + I wish your amazing selfie skills keep wowing everyone😎
 
 Remaining wishes next birthday par , okay ? My queen ❤
@@ -52,7 +52,7 @@ Go out with your friends and eat cake (ye wala to main kha jaunga subah tak 😋
 
 Ek baar fir se happy birthday🍰 and enjoy this special day 😘
 
-Lots of Love to 
+Lots of Love to<br>
 Birthday queen👰❤
 
 
