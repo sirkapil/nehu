@@ -14,16 +14,17 @@ I hope these stuff will make you smile as much as they did to me.
 
 ### Jokes
 
-> Doctor: Ji Haan Batao, Kya Takleef > Hai?
-> Ladki: Ultiyan Ho Rahi Hain!
-> Ladki: Kya Khaya Tha?
-> Ladki: Pyar Mein Dhokha! Doctor > Sahib! 
-
-.
-
-> Guess the minimum area with maximum > decoration!!
-> Topper’s Answer was:
-> “WOMAN’S FACE”
+<code>
+Doctor: Ji Haan Batao, Kya Takleef Hai?
+Ladki: Ultiyan Ho Rahi Hain!
+Ladki: Kya Khaya Tha?
+Ladki: Pyar Mein Dhokha! Doctor Sahib! 
+</code>
+<code>
+Guess the minimum area with maximum decoration!!
+Topper’s Answer was:
+ “WOMAN’S FACE”
+</code>
 
 ### Videos
 
