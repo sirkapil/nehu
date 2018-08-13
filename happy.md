@@ -12,7 +12,22 @@ Do you know your worth of your smile ? you have a pretty smile. As you smile onc
 
 I hope these stuff will make you smile as much as they did to me.
 
-[![Click Here](http://img.youtube.com/vi/iOuD6vWPsik/0.jpg)](http://www.youtube.com/watch?v=iOuD6vWPsik)
+### Jokes
+
+> Doctor: Ji Haan Batao, Kya Takleef > Hai?
+> Ladki: Ultiyan Ho Rahi Hain!
+> Ladki: Kya Khaya Tha?
+> Ladki: Pyar Mein Dhokha! Doctor > Sahib! 
+
+.
+
+> Guess the minimum area with maximum > decoration!!
+> Topper’s Answer was:
+> “WOMAN’S FACE”
+
+### Videos
+
+[![Click Here](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
 
 Remember, You are amazing, awesome. Nd Tum unique ho kyuki tere jaisa koi aur nhi hai. So, be brave and smile 😊.
 
