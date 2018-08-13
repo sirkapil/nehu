@@ -122,11 +122,13 @@ Tumhe Thoda bahut hasi ya nhi ? Abhi tak unhappy hai ?
 
 Remember, You are amazing, awesome. Nd Tum unique ho kyuki tere jaisa koi aur nhi hai. So, be brave and smile 😊.
 
-Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy and am always there for you when you need smile😊. After all, you are queen of my heart.
+Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy and am always there for you when you need smile😊. After all, you are queen👰 of my heart❤
 
 ![queen](../uploads/user/queenofheart.jpg "your are my queen")
 
 How can i see queen of my heart❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
+
+Keep smiling 😌
 
 Love you always 
 
