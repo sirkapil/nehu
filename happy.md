@@ -14,9 +14,18 @@ I hope these stuff will make you smile as much as they did to me.
 
 ### Jokes
 
-> Doctor: Ji Haan Batao, Kya Takleef Hai? 
+---
+
+> 
+
+---
+
+> Doctor: Ji Haan Batao, Kya Takleef Hai?
+ 
 Ladki: Ultiyan Ho Rahi Hain! 
+
 Ladki: Kya Khaya Tha? 
+ 
 Ladki: Pyar Mein Dhokha! Doctor  Sahib! 
 
 ---
