@@ -6,7 +6,7 @@ layout: page
 <hr />
 Rules are simple. Read them carefully and please follow them. Please, Sweetheart ❤
 
-**1.** A new letter will be posted each saturday or sunday so keep checking it☺. (Vaise mujhe pta hai , jaldi hee tum sab bhul jaogi.)
+**1.** I'll try to post a new letter each saturday or sunday so keep checking it☺. (Vaise mujhe pta hai , jaldi hee tum sab kuch bhul jaogi.😓)
 
 **2.** Keep these letters secret. (Hum dono ke bich mai sirf, Okay?😊)
 
