@@ -5,12 +5,15 @@ permalink: /happy.html
 ---
 <hr />
 
-You look too cute when you smile and Your cute smile makes me melt.
-Do you know your worth of your smile ? you have a pretty smile. As you smile once, it brings smile on others face too. Your dad will smile,  you friends and family will do , I'll also smile (even from distance , You make my sadness disappear with your beautiful smile). It brings happiness all around.  Ab smile kr hai ya nhi ? Nhi kar rhi to aise hasana pdega tujhe 👇
+I don't know that why you are unhappy but do you know that you look too cute when you smile and you're happy and your cute smile makes me melt.
+
+Do you know the worth of your smile ? you have a pretty smile. As you smile once, it brings smile on others face too. Your dad will smile,  you friends and family will do , I'll also smile (even from distance , You make my sadness disappear with your beautiful smile). It brings happiness all around.
+
+Ab smile kr hai ya nhi ? Nhi kar rhi to aise hasana pdega tujhe 👇
 
 ![photo](../uploads/user/smile1.jpg)
 
-I hope these stuff will make you smile as much as they did to me.
+I hope these stuff will make you smile as much as they did to me. I've few random jokes and videos, hope tujhe pasand aayengi.
 
 ### Jokes
 
@@ -97,14 +100,23 @@ Topper’s Answer was:
 
 ---
 
-[![Click Here](https://img.youtube.com/vi/TK1lsJvkNsY/0.jpg)](https://www.youtube.com/watch?v=TK1lsJvkNsY)
+[![Click Here](https://img.youtube.com/vi/coAKigqE6aA/0.jpg)](https://www.youtube.com/watch?v=coAKigqE6aA)
 
 ---
 
-
-[![Click Here](https://img.youtube.com/vi/TK1lsJvkNsY/0.jpg)](https://www.youtube.com/watch?v=TK1lsJvkNsY)
+[![Click Here](https://img.youtube.com/vi/cB_k4bi7VeU/0.jpg)](https://www.youtube.com/watch?v=cB_k4bi7VeU)
 
 ---
+
+[![Click Here](https://img.youtube.com/vi/cB_k4bi7VeU/0.jpg)](https://www.youtube.com/watch?v=cB_k4bi7VeU)
+
+---
+
+[![Click Here](https://img.youtube.com/vi/uvqD_VUZI24/0.jpg)](https://www.youtube.com/watch?v=uvqD_VUZI24)
+
+---
+
+Thoda bahut hasi ya nhi ? Abhi tak unhappy hai ?
 
 Remember, You are amazing, awesome. Nd Tum unique ho kyuki tere jaisa koi aur nhi hai. So, be brave and smile 😊.
 
