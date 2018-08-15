@@ -14,3 +14,5 @@ I know people change with time, we'll see so many changes in each other, surly f
 But I'll not be enough changed to admit that i missed you or i still love you. Even if i did, i know that you will know the truth by just looking into my eyes , after all you have an special ability to read my mind just looking into my eyes. Anyways, As I'll hug you into my arms, you'll listen to my heartbeats and get to know that it is still beating for someone named chamki. 
 
 Whatever, But Surely , I'll not be a Devdas anymore that day. 
+
+Thanks
