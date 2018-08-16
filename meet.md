@@ -22,11 +22,13 @@ But I'll not be enough changed to admit that i missed you or i still love you. E
 
 Anyways, As I'll hug you into my arms, you'll listen to my heartbeats 💓 and get to know that it is still beating for someone named chamki (Maybe 😆). Relax, No need to worry, I'm not like your ex-boyfriend who looked for another girl while being apart. Kinda True love, Right ? Whatever, I'm yours forever😘
 
-We're maintaining distance for each other's happiness. You don't want me to be a devdas and I can feel that you aren't happy with me and my daily arguments. So, having a distance is necessary for us. This waiting period is surely going to be heart wrecking 💔 for me.
+We're maintaining distance for each other's happiness. You don't want me to be a devdaas 😆 and Also, i can feel that you aren't happy with me and my daily arguments/lectures. So, having a distance is necessary for us. This waiting period is surely going to be heart wrecking 💔 for me. No worry, life is all about ups and downs !
 
-Even If you start liking someone else in this time, then Be frank this time 🙏 and Please don't hesitate to tell it to me. Really, I just want you to be happy😊 either without me or with someone else. You always deserve better, better person than me, My queen👰. Also, I'm kind of person who will be happy for you and feel proud of your bitter truth instead of sweet lies.
+Even If you start liking someone else in this time, then Be frank this time 🙏 and Please don't hesitate to tell it to me. Your feelings also matters. For the sake of my feelings, I'll not force you to have feelings for me. You always deserve better, better person than me, my queen👰. Also, I'm kind of person who will be happy for you and feel proud of your bitter truth instead of sweet lies.
 
-Anyways, If you wait for me, that will be supercool☺.
+Really, I just want you to be happy😊 even if it is without me or with someone else. 
+
+Anyways, If you stays and wait for me, that will be supercool☺.
 
 Waiting for that day🔥
 
