@@ -24,12 +24,12 @@ Anyways, That day, I'm gonna hug you into my arms (Maybe 😆). You'll listen to
 
 We're maintaining distance for each other's happiness. You don't want me to be a devdaas 😆 and Also, i can feel that you aren't happy with me and my daily arguments/lectures. So, having a distance is necessary for us. This waiting period is surely going to be heart wrecking 💔 for me. I'm not like your ex-boyfriend who looked for another girl while being apart. Kinda, His True love, Right ? Whatever, I'm yours forever😘 .
 
-Even If you start liking someone else in this time, then be frank this time 🙏 and please don't hesitate to tell it to me. Your feelings always matters. For the sake of my feelings, I'll not force you to have feelings for me. You always deserve better, better person than me, my queen👰. Also, I'm kind of person who will be happy for you and feel proud of your bitter truth instead of sweet lies.
+Even If you start liking someone else in this time, then be frank this time 🙏 and please don't hesitate to tell it to me. Your feelings always matters. For the sake of my feelings, I'll not force you to have feelings for me. You always deserve better, better person than me, my queen👰
 
-Really, I just want you to be happy😊 even if it is without me or with someone else. 
+I'm kind of person who will be happy for you and feel proud of your bitter truths instead of sweet lies. I just want you to be happy ☺ even if it is without me or with someone else. 
 
-Anyways, If you stays and wait for me, that will be supercool☺.
+Anyways, If you stays and wait for me, that will be supercool ☺
 
-Life is all about up's and down's. Even if we never meet, there is no such thing to regret. If we meet then it'll be just amazing time and here i'm waiting for that wonderful day🔥
+Life is all about up's and down's. If we meet then it'll be just amazing time and here i'm waiting for that wonderful day🔥. Even if we never meet, there is no such thing to regret. 
 
-❤😘❤
+❤🙏
