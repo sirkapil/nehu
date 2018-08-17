@@ -4,6 +4,7 @@ title: When you have feelings for me.
 permalink: /date.html
 ---
 18 Aug, 2018
+
 ---
 
 If someday you start liking me or want to give a chance to our relationship. Then, We can surely go out for a date. But, before all that, I want you to know a few things about me.
