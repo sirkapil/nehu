@@ -48,14 +48,13 @@ Anyways , I’ll not be able to bother you at 12 AM or even that day with calls 
 Also, I hope you’ll be having an amazing day. I wish you’ll get so many gifts🎁 , wishes on this 
 beautiful day🎈
 
-Go out with your friends and eat cake (ye wala to main kha jaunga subah tak 😋) Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet.
+Go out with your friends and eat cake (ye wala to main kha jaunga subah tak 😋) Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-Ek baar fir se happy birthday🍰 and enjoy this special day 😘
+Cake to kab ka khtm ho gya , usi din hee. ye le pizza and coke.
+
+![pizza](../uploads/user/pizza.jpg)
+
+Chill yrr and Ek baar fir se happy birthday🍰 and enjoy this special day 😘
 
 Lots of Love to<br>
 Birthday queen👰❤
-
-
-
-
-
