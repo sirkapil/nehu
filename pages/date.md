@@ -10,14 +10,16 @@ permalink: /date.html
 
 If someday you start liking me or want to give a chance to our relationship. Then, We can surely go out for a date. But, before all that, I want you to know a few things about me. 
 
+---
+
++ I don't try to impress you when we are on date. If I try to impress you, I will definitely lose my originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you.
++ I don't have many friends. So, I can give a lot of time to you.
++ If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions.
 + I'm straight forward and trustworthy. So, we can share secrets without hesitation.
 + I don't know much cooking. I can cook fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. You don't know cooking. So, We can open YouTube and learn cooking online together. :D
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you.
 + I'm 5′10″. So, you can hug me perfectly as you are around 5′6". I'll not mind even If you were taller, then you can remove your heel sandals :D
-+ I'm not too intelligent, but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too.
-+ I don't try to impress you when we are on date. If I try to impress you, I will definitely lose my originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour.
-+ I don't have many friends. So, I can give a lot of time to you.
-+ If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions/ feedbacks.
++ I'm not way too intelligent, but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too.
 + I like to hug you from behind and kiss on your cheeks.
 + I prefer kissing on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time.
 + I love classic comedy and romantic movies over action movies. I love peace.
