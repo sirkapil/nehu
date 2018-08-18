@@ -36,13 +36,15 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I'm very short tempered. So, you have to take care of my anger. But, I cool down easily & very soon.
 + I'm not your ex. So, Don't expect his each and every quality in me. But, yeah you can frankly tell me all those things, i should work on.
 + I'm an average boy with an average complexion and look. So, no girls would snatch me from you.
++ I may not open the door of cab for you but I'll walk vehicle side , holding your hand while I'm with you.
++ I may not respond to your call or text instantly. But, I'll call you as soon as i see notification from you, no matter how much busy i'm.
 + I'm good at motivating people. So, you can have a motivational factor with you. 
 + I'm good listener. So, yeah I'll not be bored of your nonstop talks.
 + I'm very sensitive and caring kind of personality.
 + I'm humble and down to earth fellow.
 + I forgive soon and forget very soon.
 + I love traditional girl for dating over modern torn jeans girl.
-+ I love girl who wear less makeup for dating over girl with KGs of makeup.
++ I love girl who wear less makeup for dating over girl wearing KGs of makeup.
 + I have allergy from strong smelling perfumes. I start sneezing with that strong smell. Make sure, you don't use them. But, you can use low concentrated deodorants.
 + I look innocent but I have a devil mind. 
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;)
