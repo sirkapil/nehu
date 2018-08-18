@@ -30,11 +30,11 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I love reading books and watching movies. So, obviously I have a great content in my mind to entertain you.
 + I have a dirty sense of humour. So, you will not get bored.
 + I have the patience to listen to your pain.
-+ I have never kissed any girl. But, yeah I can make you go crazy like no one ever did before.
++ I have never kissed any girl before. But, yeah I can make you go crazy like no one ever did before.
 + I don't have 6 packs. I don't like gym much.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes i can act like a child in front of you.
 + There is an innocent kid, arrogant warrior, blunt writer and dirty humourous fellow in me.
-+ I'm a retro type outdated fashion fellow. Usually, can be seen in formals.But, We can go for shopping of latest fashionable things. 
++ I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable things.
 + I'm very short tempered. So, you have to take care of my anger. But, I cool down easily & very soon.
 + I'm not your ex. So, Don't expect his each and every quality in me. But, yeah you can frankly tell me all those things, i should work on.
 + I'm an average boy with an average complexion and look. So, no girls would snatch me from you.
@@ -48,11 +48,11 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I love traditional girl for dating over modern torn jeans girl.
 + I love girl who wear less makeup for dating over girl wearing KGs of makeup.
 + I have allergy from strong smelling perfumes. I start sneezing with that strong smell. Make sure, you don't use them. But, you can use low concentrated deodorants.
-+ I look innocent but I have a devil mind. 
++ I look innocent but I have a devil mind.😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;)
 + I'm not a photogenic. So, we can take pics for memories instead of taking pics to post it on Instagram or Facebook.
 +I know a few native languages, Brijbhasa, Haryanvi and Punjabi(little bit). So, Sometimes, you can get a bouncer of few desi words.
-+ I'm not a conversational wizard but I'll make sure that our conversation remains always interesting. 
++ I'm not a conversational wizard but I'll make sure that our conversation remains interesting.
 + I'm not very rich (ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
 + I'm interested in kabaddi, cricket and football. But, you can get hold on TV remote and I can check scores on my phone.
 + We can plan to go on a unplanned destination on weekends. It will be fun. Planning kills enthusiasm.
