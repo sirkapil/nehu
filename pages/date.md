@@ -8,7 +8,10 @@ permalink: /date.html
 
 ---
 
-If someday you start liking me or want to give a chance to our relationship. Then, We can surely go out for a date. But, before all that, I want you to know a few things about me.
+If someday you start liking me or want to give a chance to our relationship. Then, We can surely go out for a date. But, before all that, I want you to know a few things about me. Few things you already know and few you don't.
+
+---
+
 + I won't try to impress you when we are on date. If I try to impress you, I will definitely lose my originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you.
 + I don't have many friends. So, I can give a lot of time to you.
 + If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions.
@@ -58,5 +61,5 @@ If someday you start liking me or want to give a chance to our relationship. The
 
 ---
 
-So, Let's meet and start the conversation with a mug of coffee !
+So, Let's plan a meeting and start the conversation with a mug of coffee !
 
