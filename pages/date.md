@@ -4,7 +4,7 @@ title: When you've soft corner for me 😍
 permalink: /date.html
 ---
 
-18 Aug, 2018
+** 18 Aug, 2018 **
 
 ---
 
