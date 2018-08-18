@@ -23,7 +23,7 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I love classic comedy and romantic movies over action movies. I love peace.
 + Sometimes, I use "F" words. But, It doesn't mean that I don't have manners or I don't respect others.
 + I can treat you like an angel for a moment and the very next moment I never give a f**k about you. So, be ready to tolerate my fickle mindedness.
-+ I have a dual/ split personality. A social, funny side and an evil, silent, moody side. So, you can enjoy dating 2 persons in me.
++ I have a dual/ split personality. A social, funny a.s.a silent side and an evil, moody side. So, you can enjoy dating 2 persons in me.
 + I prefer “Ladies first” rule, that doesn't make me gentleman. It's just because I can stare you from behind for a long time. Men will be men :D
 + I love reading books and watching movies. So, obviously I have a great content in my mind to entertain you.
 + I have a dirty sense of humour. So, you will not get bored.
