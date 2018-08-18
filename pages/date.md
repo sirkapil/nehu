@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When you have feelings for me. 🔥
+title: When you have feelings for me. 😍
 permalink: /date.html
 ---
 
