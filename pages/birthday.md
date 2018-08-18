@@ -4,7 +4,7 @@ permalink: /birthday.html
 layout: page
 ---
 
-To be opened : **20 Sep,2018**
+To be opened: **20 Sep,2018**
 
 ---
 

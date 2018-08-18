@@ -4,7 +4,7 @@ layout: page
 permalink: /meet.html
 ---
 
-** 15 Aug,2018 **
+**15 Aug,2018**
 
 ---
 
