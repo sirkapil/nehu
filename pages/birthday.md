@@ -3,7 +3,8 @@ title: Open When need cake🍰
 permalink: /birthday.html
 layout: page
 ---
-<hr />
+
+---
 
 ### Heyyy Chamki,
 
@@ -39,7 +40,7 @@ Remaining wishes next birthday par , okay ? My queen ❤
 
 And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe. Cake khayegi ?😋
 
-![photo](../cake.jpg "ye cake to mai kha gya 😋")
+![photo](../uploads/user/cake.jpg "ye cake to mai kha gya 😋")
 
 I hope you liked the cake. I have to arrange it and other things right now in this night. All could be possible as mama and mami aren’t at home, gone to nansar. Thanks to them and this city where shops are open till midnight.
 

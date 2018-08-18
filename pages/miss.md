@@ -3,7 +3,8 @@ title: Open When Miss me😥
 layout: page
 permalink: /miss.html
 ---
-<hr />
+
+---
 
 ### Dear Chamki,
 

@@ -4,9 +4,9 @@ layout: page
 permalink: /meet.html
 ---
 
-<i>15 Aug,2018</i>
+15 Aug,2018
 
-<hr />
+---
 
 As we're not together. But one day, we'll make a plan (may be a surprise meeting instead of plan😆) to meet each other🤗. I don't know,  when will that day come ? After a month, year or decade (too long, lol😆) But I'm sure that day will surely come. 
 

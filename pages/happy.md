@@ -3,7 +3,8 @@ title: Open When Need Smile😊
 layout: page
 permalink: /happy.html
 ---
-<hr />
+
+---
 
 I don't know that why you are unhappy😥. All I know is that you look too cute when you smile or you're happy😌 and your cute smile makes me melt.
 
