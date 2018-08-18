@@ -34,7 +34,7 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I don't have 6 packs. But, I'm fit and I prefer workouts at home instead of going out to gym and choosing steroids.
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes i can act like a child in front of you.
 + There is an innocent kid, arrogant warrior, blunt writer and dirty humourous fellow in me.
-+ I'm good in writing (luckily😆). So, Occasionally, you can expect handwritten romantic letter with a chocolate bar.
++ I'm good in writing (luckily). So, you can expect handwritten romantic letters with chocolate bars occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs.
 + I'm very short tempered. So, you have to take care of my anger. But, I cool down easily & very soon.
 + I'm not your ex. So, Don't expect his each and every quality in me. But, yeah you can frankly tell me all those things, i should work on.
@@ -54,7 +54,7 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I'm not a photogenic. So, we can take pics for memories instead of taking pics to post it on Instagram or Facebook.
 +I know a few native languages, Brijbhasa, Haryanvi and Punjabi(little bit). So, Sometimes, you can get a bouncer o few desi words.
 + I'm not a conversational wizard but I'll make sure that our conversation remains interesting.
-+ I'm not very rich (ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
++ I'm not very rich (Ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
 + I'm interested in kabaddi, cricket and football. But, you can get hold on TV remote and I can check scores on my phone.
 + We can plan to go on a unplanned destination on weekends. It will be fun. Planning kills enthusiasm.
 + I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me.
