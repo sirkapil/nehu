@@ -18,7 +18,7 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I'm straight forward and trustworthy. So, we can share secrets without any hesitation.
 + I don't know much cooking. I can cook fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. You don't know cooking. So, We can open YouTube and learn cooking online together. :D
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you.
-+ I'm 5′11″. So, you can hug me perfectly as you are around 5′5". I'll not mind even If you were taller, then you can remove your heel sandals :D
++ I'm 5′10″. So, you can hug me perfectly as you are around 5′5″. I'll not mind even If you were taller, then you can remove your heel sandals :D
 + I'm not way too intelligent, but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too.
 + I like to hug you from behind and kiss on your cheeks.
 + I prefer kissing on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time.
@@ -36,9 +36,12 @@ If someday you start liking me or want to give a chance to our relationship. The
 + There is an innocent kid, arrogant warrior, blunt writer and dirty humourous fellow in me.
 + I'm good in writing (luckily). So, you can expect handwritten romantic letters with chocolate bars occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs.
-+ I'm very short tempered. So, you have to take care of my anger. But, I cool down easily & very soon.
-+ I'm not your ex. So, Don't expect his each and every quality in me. But, yeah you can frankly tell me all those things, i should work on.
 + I'm an average boy with an average complexion and look. So, no girls would snatch me from you.
++ I love traditional girl for dating over modern torn jeans girl.
++ I love girl who wear less makeup for dating over girl wearing KGs of makeup.
++ I have allergy from strong smelling perfumes. I start sneezing with that strong smell. Make sure, you don't use them. But, you can use low concentrated deodorants.
++ I'm very short tempered. So, you have to take care of my anger. But, I cool down easily & very soon.
++ I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on.
 + I may not open the door of cab for you but I'll walk vehicle side , holding your hand while I'm with you.
 + I may not respond to your call or text instantly. But, I'll call you as soon as i see notifications from you, no matter how much busy i'm.
 + I'm good at motivating people. So, you can have a motivational factor with you. 
@@ -46,9 +49,6 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I'm very sensitive and caring kind of personality. You can expect random calls just to know if you're fine.
 + I'm humble and down to earth fellow.
 + I forgive soon and forget very soon.
-+ I love traditional girl for dating over modern torn jeans girl.
-+ I love girl who wear less makeup for dating over girl wearing KGs of makeup.
-+ I have allergy from strong smelling perfumes. I start sneezing with that strong smell. Make sure, you don't use them. But, you can use low concentrated deodorants.
 + I look innocent but I have a devil mind.😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;)
 + I'm not a photogenic. So, we can take pics for memories instead of taking pics to post it on Instagram or Facebook.
