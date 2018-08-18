@@ -39,10 +39,10 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I'm not your ex. So, Don't expect his each and every quality in me. But, yeah you can frankly tell me all those things, i should work on.
 + I'm an average boy with an average complexion and look. So, no girls would snatch me from you.
 + I may not open the door of cab for you but I'll walk vehicle side , holding your hand while I'm with you.
-+ I may not respond to your call or text instantly. But, I'll call you as soon as i see notification from you, no matter how much busy i'm.
++ I may not respond to your call or text instantly. But, I'll call you as soon as i see notifications from you, no matter how much busy i'm.
 + I'm good at motivating people. So, you can have a motivational factor with you. 
-+ I'm good listener. So, yeah I'll not be bored of your nonstop talks.
-+ I'm very sensitive and caring kind of personality.
++ I'm good listener. So, yeah I'll listen to your nonstop talks without getting bored.
++ I'm very sensitive and caring kind of personality. You can expect random calls just to know if you're fine.
 + I'm humble and down to earth fellow.
 + I forgive soon and forget very soon.
 + I love traditional girl for dating over modern torn jeans girl.
@@ -51,10 +51,10 @@ If someday you start liking me or want to give a chance to our relationship. The
 + I look innocent but I have a devil mind. 
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;)
 + I'm not a photogenic. So, we can take pics for memories instead of taking pics to post it on Instagram or Facebook.
-+I know a few native languages, Brijbhasa, Haryanvi and Punjabi(little bit). So, Sometimes, you can get a bouncer of desi words.
-+ I'm not a conversational wizard but I'll make sure that it remains interesting. 
++I know a few native languages, Brijbhasa, Haryanvi and Punjabi(little bit). So, Sometimes, you can get a bouncer of few desi words.
++ I'm not a conversational wizard but I'll make sure that our conversation remains always interesting. 
 + I'm not very rich (ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
-+ I'm interested in kabbadi, cricket and football. But, you can get hold on TV remote.
++ I'm interested in kabaddi, cricket and football. But, you can get hold on TV remote and I can check scores on my phone.
 + We can plan to go on a unplanned destination on weekends. It will be fun. Planning kills enthusiasm.
 + I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me.
 
