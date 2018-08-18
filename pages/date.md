@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Only When you have soft corner for me. 😍
+title: When you've soft corner for me 😍
 permalink: /date.html
 ---
 
