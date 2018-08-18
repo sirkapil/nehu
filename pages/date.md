@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When you have feelings for me. 😍
+title: Open Only When you have soft corner for me. 😍
 permalink: /date.html
 ---
 
