@@ -48,8 +48,8 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm good listener. So, yeah I'll listen to your nonstop talks without getting bored. 👨
 + I'm very sensitive and caring kind of personality. You can expect random calls 📞 just to know if you're fine.
 + I'm humble and down to earth fellow. ☺
-+ I'm stubborn but i can be convinced easily with love ❤
-+ I'm frank in expressing my feelings. I can tell you exactly what is brewing inside me.
++ I'm stubborn but i can be convinced easily with lovely hugs🤗
++ I'm frank in expressing my feelings. I don't hide emotions and I can tell you exactly what is brewing inside me.
 + I forgive soon and forget very soon. ☺
 + I look innocent but I have a devil mind.😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
