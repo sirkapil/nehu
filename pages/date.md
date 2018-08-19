@@ -32,7 +32,7 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I have the patience to listen to your pain. 
 + I have never kissed any girl💋 before. But, yeah I can make you go crazy like no one ever did before 💖 
 + I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
-+ I'm a mature person. So, I can tolerate your immature behaviour, But sometimes i can act like a child in front of you.😇
++ I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you. (Childish nature) 😇
 + There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humourous fellow 🙈 in me. 
 + I have good reading and writing skills (luckily). So, you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
 + I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs.🎩
@@ -48,6 +48,7 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm good listener. So, yeah I'll listen to your nonstop talks without getting bored. 👨
 + I'm very sensitive and caring kind of personality. You can expect random calls 📞 just to know if you're fine.
 + I'm humble and down to earth fellow. ☺
++ I'm stubborn but i can be convinced easily with love ❤
 + I forgive soon and forget very soon. ☺
 + I look innocent but I have a devil mind.😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
