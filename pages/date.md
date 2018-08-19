@@ -22,6 +22,9 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks.😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
+
+![foreheadkiss](../uploads/user/forheadkiss.jpg)
+
 + I love classic comedy and romantic movies over action movies. I love peace. ✌
 + I can treat you like an angel for a moment 👰 and the very next moment I never give a f**k about you 💁. So, be ready to tolerate my fickle mindedness. 😇
 + Sometimes, I use "F" words. But, It doesn't mean that I don't have manners or I don't respect others.
