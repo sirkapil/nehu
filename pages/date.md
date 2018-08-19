@@ -15,7 +15,7 @@ If someday you have a soft corner for me or start liking me 💗. Then, May be w
 + I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 🙈
 + I don't have many friends. So, I can give a lot of time to you. 
 + If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 
-+ I'm straight forward 🤘 and trustworthy. So, we can share secrets without any hesitation. ✌
++ I'm straight forward 🤘 and trustworthy. So, yeah we can share secrets without any hesitation ✌
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. You don't know cooking. So, We can open YouTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍 I'll not mind even If you were taller, then you can remove your heel sandals 🤔😂.
