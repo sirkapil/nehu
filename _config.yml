@@ -24,7 +24,7 @@ permalink:          /:title/
 markdown:           kramdown
 
 # MathJax
-mathjax: true
+mathjax: false
 
 #Background
 bg: red

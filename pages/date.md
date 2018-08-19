@@ -12,7 +12,7 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 
 ---
 
-+ I won't try to impress you when we are on date. If I try to impress you, I will definitely lose my originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
++ I won't try to impress you when we are on date. If I try to impress you, I will definitely loose originality. So I will be myself. You can feel the rawness without any sugar-coated behaviour. I expect same thing from you. 
 + I don't have many friends. So, I can give a lot of time to you. 
 + If I don't like anything about you, I can say it on your face and I expect the same thing from you. Let's be transparent like water with our opinions. 
 + I'm straight forward 🤘 and trustworthy. So, we can share secrets without any hesitation. ✌
@@ -21,7 +21,7 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍. I'll not mind even If you were taller, then you can remove your heel sandals 🤔😂.
 + I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks.😘
-+ I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time. 😘
++ I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 + I love classic comedy and romantic movies over action movies. I love peace. ✌
 + I can treat you like an angel for a moment 👰 and the very next moment I never give a f**k about you 💁. So, be ready to tolerate my fickle mindedness. 😇
 + Sometimes, I use "F" words. But, It doesn't mean that I don't have manners or I don't respect others.
@@ -31,11 +31,11 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I have a dirty sense of humour. So, you will not get bored. ✌
 + I have the patience to listen to your pain. 
 + I have never kissed any girl💋 before. But, yeah I can make you go crazy like no one ever did before 💖 
-+ I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym and choosing stuffs like steroids.
-+ I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you. (Childish nature) 😇
++ I don't have 6 packs. But, I'm fit💪 and I prefer workouts at home instead of going out to gym nd choosing stuffs like steroids.
++ I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (childish nature) 😇
 + There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humourous fellow 🙈 in me. 
 + I have good reading and writing skills (luckily). So, you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
-+ I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs.🎩
++ I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs 🎩
 + I'm an average boy with an average complexion and look. So, no girls 🙅 would snatch me from you. 
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
@@ -48,18 +48,18 @@ If someday you have a soft corner for me or start liking me. Then, May be we can
 + I'm good listener. So, yeah I'll listen to your nonstop talks without getting bored. 👨
 + I'm very sensitive and caring kind of personality. You can expect random calls 📞 just to know if you're fine.
 + I'm humble and down to earth fellow. ☺
-+ I'm stubborn but i can be convinced easily with lovely hugs🤗
++ I'm stubborn but i can be convinced easily with sweet hugs🤗😍
 + I'm frank in expressing my feelings. I don't hide emotions and I can tell you exactly what is brewing inside me.
-+ I forgive soon and forget very soon. ☺
++ I forgive soon and forget very soon ☺
 + I look innocent but I have a devil mind.😈
 + If I see your bra strips outside of your dress, I will text you saying that instead of telling you in public, but in private, sorry I can't help you out ;) 🙆
 + I'm not a photogenic. So, we can take pics for memories 📸 instead of taking pics to post it on Instagram or Facebook. 
-+ I know a few native languages, Brijbhasa, Haryanvi and Punjabi(little bit). So, Sometimes, you can get a bouncer of few desi words.
++ I know a few native languages, brij bhasa, haryanvi and punjabi(little bit). So, Sometimes, you can get bouncer of few desi words. 😇
 + I'm not a conversational wizard but I'll make sure that our conversation remains interesting. ✌
 + I'm not very rich (Ambani ki aulad type😂) but I can take you to a good restaurant or a good sensational movie.
 + I'm interested in kabaddi, cricket and football. But, you can get hold on TV remote 📺 and I can check scores on my phone.📱
 + We can plan to go on a unplanned destination on weekends. 🚣 It will be fun. Planning kills enthusiasm.
-+ I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me.
++ I believe that someday I'll be popular within my field of interests. So, you can see the glimpse of future conquerer in me. 😎
 
 ---
 
