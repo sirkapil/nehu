@@ -19,7 +19,7 @@ If someday you have a soft corner for me or start liking me 💗. Then, May be w
 + I don't know much cooking. I can cook 🍽 fried rice and a few things. But, we can spend our time in kitchen. We can be each other's mentor in cooking. You don't know cooking. So, We can open YouTube and learn cooking online together.😊
 + I'm not a great singer, but I have a few friends with soothing voice. Even, I can sing for you. 🎤
 + I'm 5′10″. So, you can hug me perfectly as you are around 5′5″😍 I'll not mind even If you were taller, then you can remove your heel sandals 🤔😂.
-+ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams, in very first attempt and I have basic common sense too. 😅
++ I'm not way too intelligent,🙇 but I have qualified a few tough competitive exams (including csir'J-18, Jam'17, Sau'17 etc. and preparing for Gate'19 and Gre'19) in very first attempt and I have basic common sense too. 😅
 + I like to hug 🤗 you from behind and kiss on your cheeks.😘
 + I prefer kissing 💑 on your forehead than on your lips on our first date, but be ready to get a mark of love bite on your lips if we meet second time 😘
 
