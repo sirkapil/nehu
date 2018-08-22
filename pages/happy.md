@@ -129,7 +129,7 @@ Don't forget you are special. I love you so much 😘 and I'll love you for ever
 
 How can i see queen of my heart❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
 
-Teri us ek dimple wali smile ka hee to jaadu hai ye. So , Keep smiling 😌
+Teri uss dimple wali muskan ka hee to jaadu hai ye. So , Keep smiling 😌
 
 
 ☺😆😂
