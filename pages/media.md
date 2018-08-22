@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When you need to hear soothing voice ❤
+title: When you need to hear smooth voice ❤
 permalink: /media.html
 --- 
 
@@ -27,3 +27,31 @@ Your browser does not support the `audio` element. Here is download <a href="../
 
 </audio>
 
+---
+
+
+<audio controls>
+  <source src="../uploads/music/audio2.mp3" type="audio/mpeg">
+  
+Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio2.mp3">link to the audio</a> instead. 
+
+</audio>
+
+---
+
+<audio controls>
+  <source src="../uploads/music/audio3.mp3" type="audio/mpeg">
+  
+Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio3.mp3">link to the audio</a> instead. 
+
+</audio>
+
+---
+
+
+<audio controls>
+  <source src="../uploads/music/audio4.mp3" type="audio/mpeg">
+  
+Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio4.mp3">link to the audio</a> instead. 
+
+</audio>
