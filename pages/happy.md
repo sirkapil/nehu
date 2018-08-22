@@ -103,19 +103,19 @@ Topper’s Answer was:
 ### Videos
 
 
-[![Click Here](https://img.youtube.com/vi/coAKigqE6aA/0.jpg)](https://www.youtube.com/watch?v=coAKigqE6aA)
+[![Click Here](../uploads/user/happy1.jpg)](https://www.youtube.com/watch?v=coAKigqE6aA)
 
 ---
 
-[![Click Here](https://img.youtube.com/vi/TK1lsJvkNsY/0.jpg)](https://www.youtube.com/watch?v=TK1lsJvkNsY)
+[![Click Here](../uploads/user/happy2.jpg)](https://www.youtube.com/watch?v=TK1lsJvkNsY)
 
 ---
 
-[![Click Here](https://img.youtube.com/vi/cB_k4bi7VeU/0.jpg)](https://www.youtube.com/watch?v=cB_k4bi7VeU)
+[![Click Here](../uploads/user/happy3.jpg)](http://www.youtube.com/watch?v=cB_k4bi7VeU)
 
 ---
 
-[![Click Here](https://img.youtube.com/vi/uvqD_VUZI24/0.jpg)](https://www.youtube.com/watch?v=uvqD_VUZI24)
+[![Click Here](../uploads/user/happy4.jpg)](https://www.youtube.com/watch?v=uvqD_VUZI24)
 
 ---
 
