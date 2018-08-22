@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When you need to hear smooth voice ❤
+title: When you need to hear soothing voice ❤
 permalink: /media.html
 --- 
 
@@ -13,7 +13,7 @@ I hope you'll love them. ❤
 
 --+
 
-## Videos 
+## Videos 🎬
 
 
 [![Click to Play](../uploads/user/video.jpg)](../uploads/music/chamki.mp4)
@@ -22,11 +22,11 @@ Download: [https://goo.gl/dA9JYo](https://goo.gl/dA9JYo)
 
 ---
 
-## Audios
+## Audios 🎤
 
 ---
 
-**Note:** Please use earphones and keep volume around 70 %.
+**Note:** Please use earphones 🎧 and keep volume around 70 %
 
 
 <audio controls>
