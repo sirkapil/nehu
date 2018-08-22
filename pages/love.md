@@ -6,6 +6,7 @@ permalink: /love.html
 
 ## Videos
 
-+ [![Click to Play](../uploads/user/video.jpg)](../uploads/music/chamki.mp4)
- 
-Download Video : [https://goo.gl/dA9JYo](https://goo.gl/dA9JYo)
+---
+
+[![Click to Play](../uploads/user/video.jpg)](../uploads/music/chamki.mp4)
+Download: [https://goo.gl/dA9JYo](https://goo.gl/dA9JYo)
