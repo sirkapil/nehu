@@ -1,7 +1,4 @@
-
-+ **Don't hide your emotions**
-
-> If you're having a bad day, show it !  If you need to cry, then cry with pride ! Never be ashamed of how you feel. They are just parts of life, bad days as well as good days. If something is hurting you then discuss. Unfortunately, most people aren't mind-readers. Yes, in life we have some people who can understand us better, but sometimes they can't. So, you have to discuss with them. 
+ Unfortunately, most people aren't mind-readers. Yes, in life we have some people who can understand us better, but sometimes they can't. So, you have to discuss with them. 
 
 
 

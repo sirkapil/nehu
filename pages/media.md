@@ -4,16 +4,25 @@ title: When you need to hear smooth voice ❤
 permalink: /media.html
 --- 
 
-## Videos
+**Aug 22, 2018**
 
 ---
+
+I hope you'll love them. ❤ 
+
+
+--+
+
+## Videos 
+
 
 [![Click to Play](../uploads/user/video.jpg)](../uploads/music/chamki.mp4)
 Download: [https://goo.gl/dA9JYo](https://goo.gl/dA9JYo)
 
+
 ---
 
-## Audio
+## Audios
 
 ---
 
@@ -55,3 +64,5 @@ Your browser does not support the `audio` element. Here is download <a href="../
 Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio4.mp3">link to the audio</a> instead. 
 
 </audio>
+
+---
