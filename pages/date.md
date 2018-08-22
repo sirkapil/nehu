@@ -43,7 +43,7 @@ If someday you have a soft corner for me or start liking me 💗. Then, May be w
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
 + I have allergy from strong smelling perfumes. 😷 I start sneezing with that strong smell 🤕. Make sure, you don't use them. But, you can use low concentrated deodorants. ☺
-+ I don't wear wrist watches. Make sure, you don't gift them ; even on my birthday. I'll prefer bracelet over wrist watch. 🙊
++ I don't wear wrist watches. Make sure, you don't gift them,even on my birthday. I'll prefer bracelet over wrist watch🙊
 + I'm very short tempered😤. So, you have to take care of my anger. But, I cool down very soon.😌
 + I'm not your ex. I'm different person. So, don't expect his each and every good quality in me. But, yeah you can frankly tell me all those things, i should work on. 🙈
 + I may not open the door of cab for you. But yeah, I'll walk vehicle side, holding your hand 👫 while i'm with you.
