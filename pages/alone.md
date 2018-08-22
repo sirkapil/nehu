@@ -15,7 +15,7 @@ First thing you should know is that :
 
 + **You are not alone.**
 
-> I'm forever with you. I may be thousands of miles away from you but my heart is always with you, it goes wherever you go. Don't feel alone.
+> I'm forever with you. I may be thousands of miles away from you but my heart ❤ is always with you, it goes wherever you go. So, Don't feel alone. 
 
 
 + **Don't hide your emotions**
