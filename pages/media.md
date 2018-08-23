@@ -38,15 +38,6 @@ Download: [https://goo.gl/xndqVn](https://goo.gl/xndqVn)
 **Note:** Please use earphones 🎧 and keep volume around 70 %
 
 
-<audio controls>
-  <source src="../uploads/music/audio1.mp3" type="audio/mpeg">
-  
-Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio1.mp3">link to the audio</a> instead. 
-
-</audio>
-
----
-
 
 <audio controls>
   <source src="../uploads/music/audio2.mp3" type="audio/mpeg">
@@ -71,6 +62,15 @@ Your browser does not support the `audio` element. Here is download <a href="../
   <source src="../uploads/music/audio4.mp3" type="audio/mpeg">
   
 Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio4.mp3">link to the audio</a> instead. 
+
+</audio>
+
+---
+
+<audio controls>
+  <source src="../uploads/music/audio1.mp3" type="audio/mpeg">
+  
+Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio1.mp3">link to the audio</a> instead. 
 
 </audio>
 
