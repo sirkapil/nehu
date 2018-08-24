@@ -16,7 +16,7 @@ First thing you should know is that :
 
 + **You are not alone.**
 
-> I'm forever with you. I may be thousands of miles away from you but my heart ❤ is always with you, it goes wherever you go. So, Don't feel alone. 
+> I'm forever with you. I may be thousands of miles away from you but my heart ❤ is always with you, it goes wherever you go. So, Don't feel alone.  No matter how bad situation is, I'll be always with you. I can't solve all of your problems but rest assured that I'll be always there with you just like a shadow.
 
 
 + **Don't hide your emotions**
@@ -25,7 +25,7 @@ First thing you should know is that :
 
 Alright !
 
-(Abhi Main Hun ❤)
+(Abhi Main Hun Naa ❤)
 
 
 ---
