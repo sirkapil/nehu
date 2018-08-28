@@ -21,8 +21,7 @@ It's 20th September ,your birthday🎉🎂🎊 and this one day is all about you
 + I wish you gotta learn cooking this year. (Maggie and tea ain’t enough , Malida k laddoobhi seekh liyo😋)
 + I wish you soon become self independent in life and never need anyone to depend on. ✌
 + I wish you soon realize that you are not cactus🌵
-+ I wish you never fall sick and you say forever good bye to food poisoning, fluctuating bp and 
-others. Always remain healthy and happy. (But pehle namkin khana to chhod de 😆)
++ I wish you never fall sick and you say forever good bye to food poisoning, fluctuating bp and others. Always remain healthy and happy. (But pehle namkin khana to chhod de 😆)
 + I wish you keep dancing and singing your favorite songs. (sad songs mat sunne lag jana aur unpr dance mat krna😆)
 + I wish you start believing in wishes from true heart. They are purest form of prayers,anyone can do and god bless you a successful life.✌
 + I wish your brother score good in GATE exam ✌, one he is preparing for (bet he'll not get better rank than me 💪)
@@ -31,9 +30,9 @@ others. Always remain healthy and happy. (But pehle namkin khana to chhod de �
 + I wish your best friend vivek get a gf soon. (Vaise vo iss maamle main jee tod mehnat kr rha h..😆)
 + I wish your madness keep alive surroundings.😎
 + I wish you never give up on your goals in life.💪
-+ I wish you get sooo much love from those all whom you love. I wish you and your bf tiwari keep loving each other forever ❤
++ I wish you get sooo much love from those all whom you love. Also, you and your perfect bf tiwari keep loving each other forever❤
 + I wish you get a DSLR camera soon.📷
-+ I wish you remain unchanged, (nakhre wali, ladni-guthni, chhoti chhoti baat pr bachhe ki tarah muhh fula lene wali. Hairstyle bhi change mat krna💇, Anyways, I know you'll look perfect in every hairstyle either curly or straight. Jesi bhi ho, bht achhi lagti ho tum👰❤ , just don't change ever.)
++ I wish you remain unchanged, (nakhre wali, ladni-guthni, chhoti chhoti baat pr bachhe ki tarah muhh fula lene wali. Hairstyle bhi change mat krna💇. Anyways, I know you'll look perfect in any hairstyle either curly or straight. But, Jesi bhi ho, bht achhi lagti ho tum👰❤ , just don't ever change.)
 + I wish your amazing selfie skills keep wowing everyone😎 (including me too 🙈)
 
 Words alone are not enough to express how happy i am right now i have enough warm wishes to make this list, a km long but remaining wishes next birthday par , okay ? Chamki ❤
@@ -50,7 +49,7 @@ Also, I hope you’ll be having an amazing day. I wish you’ll get so many gift
 
 Go out with your friends and eat cake (ye wala to main kha jaunga subah tak 😋) Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-Cake to kab ka khtm ho gya , usi din hee 🙈. ye le pizza and coke.😋
+**Edit:** Cake to kab ka khtm ho gya , usi din hee 🙈. ye le pizza and coke.😋
 
 ![pizza](../uploads/user/pizza.jpg)
 
