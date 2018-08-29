@@ -30,7 +30,7 @@ I'm kind of person who will be happy for you and feel proud of your bitter truth
 
 Anyways, If you stays and wait for me, that will be supercool ☺
 
-Life is all about up's and down's. If we meet then it'll be just amazing time and here i'm waiting for that wonderful day🔥. Even if we never meet, there is no such thing to regret. 
+Life is all about up's and down's. If we meet then it'll be just amazing time and here i'm waiting for that wonderful day🔥. Even if we never meet, there is no such thing to regret as you have already given me a lot of lovely and irreplaceable memories in my life.
 
 ❤🙏
 ---
