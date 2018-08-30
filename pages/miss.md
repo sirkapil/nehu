@@ -25,7 +25,7 @@ Don’t worry,I'm sending a picture of mine in envelope as I know u don’t hav
 
 ![kapil][photo]
 
-Now, Chamki, Take a deep breath and smile now😊.I'm missing you too and
+Now, Chamki, Take a deep breath and smile now😊. I'm missing you too and
 send me a text right now.
 
 Lots of Love 
