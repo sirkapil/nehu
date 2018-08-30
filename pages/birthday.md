@@ -41,6 +41,9 @@ You are 22 years old now and here are 22 wishes from my side. So here i wish de
 + I wish your madness keep alive surroundings.😎 (velli kudi 🙈)
 + I wish you never give up on your goals in life.💪
 + I wish you get sooo much love from those all whom you love. You and your bf tiwari keep loving each other forever❤
+
+![tiwari](../uploads/user/withtiwari.jpg)
+
 + I wish you get a DSLR camera soon.📷
 + I wish you remain unchanged, (nakhre wali, ladni-guthni, chhoti chhoti baat pr bachhe ki tarah muhh fula lene wali. Hairstyle bhi change mat krna💇. Anyways, I know you'll look perfect in any hairstyle either curly or straight. But, Jesi bhi ho, bht achhi lagti ho tum👰❤ , just don't ever change.)
 + I wish your amazing selfie skills keep wowing everyone😎 (including me too 🙈)
