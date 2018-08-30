@@ -121,15 +121,15 @@ Topper’s Answer was:
 
 Tumhe Thoda bahut hasi ya nhi ? Abhi tak unhappy hai ?
 
-Remember, You are amazing, awesome. Nd Tum unique ho kyuki tere jaisa koi aur nhi hai. So, be brave and smile 😊.
+Remember, You are amazing, awesome. Nd Tum unique ho kyuki tumhare jaisa koi aur nhi hai. So, be brave and smile 😊
 
-Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy and am always there for you when you need smile😊. After all, you are queen👰 of my heart❤
+Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy and am always there for you when you need smile😊. After all, you are the only queen👰 of my heart❤
 
 ![queen](../uploads/user/queenofheart.jpg "your are my queen")
 
-How can i see queen of my heart❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
+How can i see my queen❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
 
-Teri uss dimple wali muskan ka hee to jaadu hai ye. So , Keep smiling 😌
+Teri uss dimple wali muskan ka hee to jaadu hai ye. So , Keep smiling kyuki tuu hasti hai to main bhi hasta hun😌
 
 
 ☺😆😂

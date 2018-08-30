@@ -8,7 +8,7 @@ permalink: /media.html
 
 ---
 
-I hope you'll love them. ❤ 
+I have certain things for you and hope you'll love each of them❤ 
 
 
 ---
@@ -17,13 +17,13 @@ I hope you'll love them. ❤
 
 
 [![Click to Play](../uploads/user/video.jpg)](../uploads/music/chamki.mp4)
+
 Download: [https://goo.gl/dA9JYo](https://goo.gl/dA9JYo)
 
-
-
-
+---
 
 [![Click to Play](../uploads/user/video1.jpg)](../uploads/music/chamki1.mp4)
+
 Download: [https://goo.gl/xndqVn](https://goo.gl/xndqVn)
 
 

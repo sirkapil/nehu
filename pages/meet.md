@@ -22,7 +22,9 @@ But I'll not be enough changed to admit that i missed you or i still love you. E
 
 Anyways, That day, I'm gonna hug you into my arms (Maybe 😆). You'll listen to my heartbeats 💓 and get to know that it is still beating for someone named chamki . Relax, It'll be all formal. No need to worry !
 
-We're maintaining distance for each other's happiness. You don't want me to be a devdaas 😆 and Also, i can feel that you aren't happy with me and my daily arguments/lectures. So, having a distance is necessary for us. This waiting period is surely going to be heart wrecking 💔 for me. I'm not like your ex-boyfriend who looked for another girl while being apart. Kinda, His True love, Right ? Whatever, I'm yours forever. No girl can snatch me from you. 😘
+We're maintaining distance for each other's happiness. You don't want me to be a devdaas 😆 and Also, i can feel that you aren't happy with me and my daily arguments/lectures. So, having a distance is necessary for us. This waiting period is surely going to be heart wrecking 💔 for me. I'm not like your ex-boyfriend who looked for another girl while being apart. Kindaa, his true love, right ? Whatever, I'm yours forever. No girl can snatch me from you. 😘 
+
+I truly loved , I never treated you like an object. I didn't choose you for the way you look. I'm kind of person who never pick out a book just because the cover looks nice but gives the time to read what's inside. Same was in your case. Little bit of physical affection is obvious but it wasn't attraction at all. I am emotionally attached to you. I discussed all real feelings to you. Each day, i can’t stop thinking about you. I am possessive and only desired for you. It is deep romantic love. But, Umm 😓, some true love stories never complete. Whatever !
 
 Even If you start liking someone else in this time, then be frank this time 🙏 and please don't hesitate to tell it to me. Your feelings always matters. For the sake of my feelings, I'll not force you to have feelings for me. You always deserve better, better person than me, my queen👰
 
