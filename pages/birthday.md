@@ -40,7 +40,7 @@ You are 22 years old now and here are 22 wishes from my side. So here i wish de
 + I wish your best friend vivek get a gf soon. (Vaise vo iss maamle main jee tod mehnat kr rha h.😆)
 + I wish your madness keep alive surroundings.😎 (velli kudi 🙈)
 + I wish you never give up on your goals in life.💪
-+ I wish you get sooo much love from those all whom you love. You and your bf tiwari keep loving each other forever❤
++ I wish you get sooo much love from those all whom you love. You and your perfect bf tiwari keep loving each other forever❤
 
 ![tiwari](../uploads/user/withtiwari.jpg)
 
