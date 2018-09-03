@@ -4,18 +4,18 @@ permalink: /birthday.html
 layout: page
 ---
 
-To be opened: **20 Sep,2018**
+To be opened: **Birthday Night**
 
 ---
 
 ### Hey Chamki,
 
-It's 20th September , Wake up ! 
+It's 20th Sep, **00:00**, Wake up ! 🎺
 
 ![photo](../uploads/user/birthday-no.jpg)
 
 
-It's your birthday🎉🎂🎊 and this one day is all about you. A high five ! 🙋
+It's your birthday🎂 and this one day is all about you. A high five !🙋
 
 ![photo](https://duckduckgo.com/assets/addons/footer-illustration.svg)
 
