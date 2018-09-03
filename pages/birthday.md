@@ -10,7 +10,12 @@ To be opened: **20 Sep,2018**
 
 ### Hey Chamki,
 
-It's 20th September ,your birthday🎉🎂🎊 and this one day is all about you. A high five ! 🙋
+It's 20th September , Wake up ! 
+
+![photo](../uploads/user/birthday-no.jpg)
+
+
+It's your birthday🎉🎂🎊 and this one day is all about you. A high five ! 🙋
 
 ![photo](https://duckduckgo.com/assets/addons/footer-illustration.svg)
 
