@@ -21,7 +21,12 @@ wait to see you and I know I'll see you some day. Wait for me !
 We're not together but each day I think about you and you don’t have 
 any idea that how much i miss you. I loved you truly. Don’t worry and 
 believe me , chamki ! I’m forever yours. I still love you with my full 
-heart❤. This heart will always need you like a fish needs water.
+heart❤. I still can recall a quote from a novel `i too had a love story` by **ravinder singh**.
+`NOT everyone in this world has the fate to cherish the fullest form of love.
+some are born ,just to experience the abbreviation of it`. so was me, just experienced love's abbreviation only. The pain injuries of this broken heart may heal with time
+But marks will always remain
+restless on my comfortable bed and i can't forget that past. The present! It’s so different from the past. The past! It will never come back. Never ever!
+But I got a stubborn heart which will always need you like a fish needs water.
 
 I know you don’t have any picture with me, even last day of college I 
 denied for picture with you. Babe, I wanted to share a whole wedding 
