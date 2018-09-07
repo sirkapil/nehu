@@ -5,6 +5,12 @@ permalink: /poem.html
 ---
 
 
+I still can recall a quote from a novel i too had a love story by ravinder singh. NOT everyone in this world has the fate to cherish the fullest form of love. some are born ,just to experience the abbreviation of it. so was me, just experienced love’s abbreviation only. The pain injuries of this broken heart may heal with time But marks will always remain restless on my comfortable bed and i can’t forget that past. The present! It’s so different from the past. The past! It will never come back. Never ever! 
+
+
+
+
+
 i will find hope in anything
 if it means there is a chance
 you will love me
