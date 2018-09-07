@@ -123,7 +123,7 @@ Tumhe Thoda bahut hasi ya nhi ? Abhi tak unhappy hai ?
 
 Remember, You are amazing, awesome. Nd Tum unique ho kyuki tumhare jaisa koi aur nhi hai. So, be brave and smile 😊
 
-Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy and am always there for you when you need smile😊. After all, you are the only queen👰 of my heart❤
+Don't forget you are special. I love you so much 😘 and I'll love you for ever. I can't see you unhappy , sometimes i made you cry but I don’t want you to cry. It hurts me to see tears in your eyes. I can’t bear to see any pain on your cute face and i promise, i am always there for you when you need smile😊. After all, you are the only queen👰 of my heart❤
 
 ![queen](../uploads/user/queenofheart.jpg "your are my queen")
 
