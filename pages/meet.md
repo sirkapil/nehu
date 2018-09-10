@@ -34,6 +34,8 @@ Anyways, If you stays and wait for me, that will be supercool ☺
 
 Life is all about up's and down's. If we meet then it'll be just amazing time and here i'm waiting for that wonderful day🔥. Even if we never meet, there is no such thing to regret as you have already given me a lot of lovely and irreplaceable memories in my life and i'm all happy with them.☺
 
+What i belive is **Some love stories are never meant to complete. Not every one has the fate to cherish the fullest form of love, some are born to experience the abbreviation of it. But, that's really beautiful to feel when someone loved you soo madly and he did his best, stcicked to his words, even after many heartbreaks. That's the best things someone can do for you to make you feel special.
+
 ❤🙏
 ---
 
