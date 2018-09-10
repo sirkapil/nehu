@@ -29,6 +29,7 @@ If someday you have a soft corner for me or start liking me 💗. Then, May be w
 + I can treat you like an angel for a moment 👰 and the very next moment I never give a f**k about you 💁. So, be ready to tolerate my fickle mindedness. 😇
 + Sometimes, I use "F" words 🤬. But, It doesn't mean that I don't have manners or I don't respect others.
 + I have a dual/ split personality. A social, funny a.s.a silent side and an evil 👿 , moody side 😇. So, you can enjoy dating 2 persons in me.
++ I am little bit of introvert type.
 + I prefer “Ladies first” rule, that doesn't make me gentleman. It's just because I can stare you from behind for a long time. Men will be men 😅
 + I love reading books 📚 and watching movies 🎬. So, obviously I have a great content in my mind to entertain you😍
 + I have a dirty sense of humour. So, you will not get bored. ✌
@@ -39,7 +40,7 @@ If someday you have a soft corner for me or start liking me 💗. Then, May be w
 + I'm a mature person. So, I can tolerate your immature behaviour, But sometimes, i can act like a child in front of you (Childish Nature) 😇
 + There is an innocent kid☺, arrogant warrior 😎, blunt writer  and dirty humourous fellow 🙈 in me. 
 + I have good reading and writing skills (luckily). So, you can expect handwritten romantic letters 📜 with chocolate bars🍫 occasionally.
-+ I'm a retro type outdated fashion fellow. Usually, can be seen in formals. But, We can go for shopping of latest fashionable stuffs 🎩
++ I'm a retro type outdated fashion fellow. Usually, can be seen in formals, and wear those oufits in which i'm comfotable rather than wearing to impress someone. But, yeah we can go for shopping of latest fashionable stuffs 🎩
 + I'm an average boy with an average complexion and look. So, no girls 🙅 would snatch me from you. 
 + I love traditional girl for dating over modern torn jeans girl. 🙋
 + I love girl who wear less makeup for dating over girl wearing lots of makeup. 🙍🙅
