@@ -6,7 +6,9 @@ permalink: /happy.html
 
 ---
 
-I don't know that why you are unhappy😥. All I know is that you look too cute when you smile or you're happy😌 and your cute smile makes me melt.
+>**"People told me that make her laugh, as a girl's smile is precious. But whenever you smiled, I'm the one who fall in love with you again nd again"❤**
+
+I don't know that why you are unhappy😥. All I know is that you look too cute when you smile or you're in happy mood😌 and your cute smile makes me melt each time.
 
 ![Smiling Neha](../uploads/user/smilingneha.jpg)
 
@@ -129,10 +131,7 @@ Don't forget you are special. I love you so much 😘 and I'll love you for ever
 
 How can i see my queen❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
 
-Teri uss muskan ka hee to jaadu hai ye. So, Keep smiling .. kyuki agar tuu hasti hai to main bhi hasta hun😌
-
->**"People's told me that make her laugh, as a girl's smile is precious. But whenever she smiled, I am the one who fall in love with her again and again.❤"**
-
+Teri uss muskan ka hee to jaadu hai ye. So, Keep smiling .. kyuki agar tuu hasti hai to main bhi hasta hun.
 
 ☺😆😂
 ---
