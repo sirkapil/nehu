@@ -129,7 +129,9 @@ Don't forget you are special. I love you so much 😘 and I'll love you for ever
 
 How can i see my queen❤ unhappy😢 ? Really, i just want to see your smile😌. When you smile , just take a picture and send it to me on WhatsApp. Okay ?😘
 
-Teri uss dimple wali muskan ka hee to jaadu hai ye. So, Keep smiling .. kyuki agar tuu hasti hai to main bhi hasta hun😌
+Teri uss muskan ka hee to jaadu hai ye. So, Keep smiling .. kyuki agar tuu hasti hai to main bhi hasta hun😌
+
+>**"People's told me that make her laugh, as a girl's smile is precious. But whenever she smiled, I am the one who fall in love with her again and again.❤"**
 
 
 ☺😆😂
