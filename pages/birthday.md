@@ -10,7 +10,7 @@ To be opened: **On Birthday**
 
 ### Hey Chamki,
 
-It's 20th Sep, Wake up for birthday celebrations.🎺
+It's 20th Sep, Wooho, just wake up for birthday celebrations.🎺
 
 ![photo](../uploads/user/birthday-no.jpg)
 
