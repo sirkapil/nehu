@@ -61,10 +61,12 @@ Words alone are not enough to express how happy i am right now i have enough war
 
 And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) Cake khayegi ? 😋
 
-![photo](../uploads/user/cake.jpg "ye cake to mai kha gya 😋")
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
 
-I hope you liked the cake. I have to arrange it and other things right now in this night. All could 
-be possible as mama and mami aren’t at home, gone to nansar. Thanks to them and this city 
+I hope you liked the cake. I arranged this and other things right that night. All could 
+be possible as mama and mami weren’t at home, gone to nansar. Thanks to them and this city 
 where shops are open till midnight. 🙌
 
 Also, I hope you’ll be having an amazing day. I wish you’ll get so many gifts🎁 , wishes and everyone's blessings on this beautiful day🎈 
