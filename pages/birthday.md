@@ -59,21 +59,21 @@ better rank than me 💪)
 
 Words alone are not enough to express how happy i am right now i have enough warm wishes to make this list, a km long but remaining wishes next birthday par , Alright ?
 
-And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) Cake khayegi ? 😋
+And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) BTW Eat lots of cake today😋
 
-<video width="320" height="240" controls preload="auto">
+<video width="auto" height="auto" controls preload="auto">
   <source src="https://chamki.netlify.com/uploads/music/VID_33970710_195643_410.mp4" type="video/mp4">
 </video>
 
-I hope you liked the cake. I arranged this and other things right that night. All could 
+Few days back, I arranged this and other things right that night. All could 
 be possible as mama and mami weren’t at home, gone to nansar. Thanks to them and this city 
 where shops are open till midnight. 🙌
 
 Also, I hope you’ll be having an amazing day. I wish you’ll get so many gifts🎁 , wishes and everyone's blessings on this beautiful day🎈 
 
-Go out with your friends and eat cake (dusra khana , kyuki ye wala to main kha jaunga subah tak 😋) Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
+Go out with your friends, have lots of fun nd masti and Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-**Edit:** Cake to kab ka khtm ho gya , usi din hee 🙈. ye le pizza and coke.😋
+A party with delicious pizza and coke gonna be worthwhile. 😋
 
 ![pizza](../uploads/user/pizza.jpg)
 
