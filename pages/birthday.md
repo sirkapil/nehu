@@ -61,7 +61,7 @@ Words alone are not enough to express how happy i am right now i have enough war
 
 And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) BTW Eat lots of cake today😋
 
-<video width="auto" height="auto" controls preload="auto">
+<video width="320" height="auto" controls preload="auto">
   <source src="https://chamki.netlify.com/uploads/music/VID_33970710_195643_410.mp4" type="video/mp4">
 </video>
 
