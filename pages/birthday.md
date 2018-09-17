@@ -73,7 +73,7 @@ Also, I hope you’ll be having an amazing day. I wish you’ll get so many gift
 
 Go out with your friends, have lots of fun nd masti and Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-A party with delicious pizza and coke gonna be worthwhile. 😋
+A party with delicious pizza and coke gonna be worthwhile from my side.😋
 
 ![pizza](../uploads/user/pizza.jpg)
 
