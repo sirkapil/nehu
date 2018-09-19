@@ -57,7 +57,7 @@ better rank than me 💪)
 + I wish you remain unchanged, (nakhre wali, ladni-guthni, chhoti chhoti baat pr bachhe ki tarah muhh fula lene wali. Hairstyle bhi change mat krna💇. Anyways, I know you'll look perfect in any hairstyle either curly or straight. But, Jesi bhi ho, bht achhi lagti ho tum👰❤ , just don't ever change.)
 + I wish your amazing selfie skills keep wowing everyone😎 (including me too 🙈)
 
-Words alone are not enough to express how happy i am right now i have enough warm wishes to make this list, a km long but remaining wishes next birthday par , Alright ?
+Words alone are not enough to express how happy i am right now. even i have enough warm wishes to make this wish list, a km long but remaining wishes next birthday par , Alright ?
 
 And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) , Moreover, Eat lots of cake today😋
 
