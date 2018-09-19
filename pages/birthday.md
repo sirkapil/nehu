@@ -79,7 +79,7 @@ A treat with delicious pizza and coke gonna be worthwhile from my side.😋
 
 and as usual a novel from my side , you'll love reading this novel too. 😘
 
-![novel](./uploadz/user/novel.jpg)
+![novel](./uploads/user/novel.jpg)
 
 Chill yrr and ek baar fir se happy birthday🍰 and enjoy this special day 😘. Have fun and lots of love to birthday queen👰❤
 
