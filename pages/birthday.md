@@ -73,9 +73,13 @@ Also, I hope you’ll be having an amazing day. I wish you’ll get so many gift
 
 Go out with your friends, have lots of fun nd masti and Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-A treat with delicious pizza and coke gonna be worthwhile from my side.😋
+A treat with delicious pizza and coke gonna be worthwhile from my side.😋 
 
 ![pizza](../uploads/user/pizza.jpg)
+
+and as usual a novel from my side , you'll love reading this novel too. 😘
+
+![novel](./uploadz/user/novel.jpg)
 
 Chill yrr and ek baar fir se happy birthday🍰 and enjoy this special day 😘. Have fun and lots of love to birthday queen👰❤
 
