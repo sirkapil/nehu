@@ -59,13 +59,13 @@ better rank than me 💪)
 
 Words alone are not enough to express how happy i am right now i have enough warm wishes to make this list, a km long but remaining wishes next birthday par , Alright ?
 
-And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) BTW Eat lots of cake today😋
+And don’t forget to call your mom and thank her for bringing you to this world 🌏.(Vaise bhi moms ko yaad rhte hai birthday 😍, khud wish kr dengi tujhe.) , Moreover, Eat lots of cake today😋
 
 <video width="320" height="540" controls preload="auto">
   <source src="https://chamki.netlify.com/uploads/music/hbd.mp4" type="video/mp4">
 </video>
 
-Few days back, I arranged this and other things right that night. All could 
+Just few days back, I arranged this and other things right that night. All could 
 be possible as mama and mami weren’t at home, gone to nansar. Thanks to them and this city 
 where shops are open till midnight. 🙌
 
@@ -73,7 +73,7 @@ Also, I hope you’ll be having an amazing day. I wish you’ll get so many gift
 
 Go out with your friends, have lots of fun nd masti and Eat lots of cake🍰 and chocolates 🍫 without caring about food poisoning and your diet. 
 
-A party with delicious pizza and coke gonna be worthwhile from my side.😋
+A treat with delicious pizza and coke gonna be worthwhile from my side.😋
 
 ![pizza](../uploads/user/pizza.jpg)
 
