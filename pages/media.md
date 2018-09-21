@@ -53,6 +53,15 @@ Your browser does not support the `audio` element. Here is download <a href="../
 ---
 
 <audio controls>
+  <source src="../uploads/music/mujhe-yaad-hai.mp3" type="audio/mpeg">
+  
+Your browser does not support the `audio` element. Here is download <a href="../uploads/music/mujhe-yaad-hai.mp3">link to the audio</a> instead. 
+
+</audio>
+
+---
+
+<audio controls>
   <source src="../uploads/music/audio3.mp3" type="audio/mpeg">
   
 Your browser does not support the `audio` element. Here is download <a href="../uploads/music/audio3.mp3">link to the audio</a> instead. 
