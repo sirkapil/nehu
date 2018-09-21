@@ -15,6 +15,10 @@ Seriously my queen👰❤, I miss you every minute , hour and everyday. I miss y
 every time🕰, I miss your texts and lovely voice on calls, I miss someone who used to fight with me. I miss that lovely smile. I miss that cuteness overloaded chamki. I miss her kindness. I miss her love and care. I miss you soo muchhh, chamki. And, we're not together. Honestly, I don’t like to be away from
 you. I want to be always with you. But we've to be apart.
 
+<video width="320" height="540" controls preload="auto">
+  <source src="https://chamki.netlify.com/uploads/music/miss-you.mp4" type="video/mp4">
+</video>
+
 I don’t want you to miss me. We need to be strong , right ? Even, I can’t 
 wait to see you and I know I'll see you some day. Wait for me !
 
