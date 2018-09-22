@@ -41,6 +41,10 @@ What i belive is: **Some love stories are never meant to complete. Not every one
 
 Even if we never meet, there is no such thing to regret as you have already given me a lot of lovely and irreplaceable memories in my life and i'm all happy with them.☺
 
+<video width="320" height="400" controls preload="auto">
+  <source src="https://chamki.netlify.com/uploads/music/kuchh-to-batana.mp4" type="video/mp4">
+</video>
+
 ❤🙏
 ---
 
