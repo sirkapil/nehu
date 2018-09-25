@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /angry.html
-title: When You are angry😡
+title: When You Are Angry😡
 ---
 
 ---
