@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /angry.html
-title: When You Are Angry😡
+title: When You're Angry😡
 ---
 
 ---
@@ -15,10 +15,10 @@ I want you to take a few deep breaths and let it go whatever is making you angry
 <video width="320" height="540" controls preload="auto">
   <source src="https://github.com/sirkapil/Kiko/blob/master/uploads/music/_friendshipis_-20180925-0001.mp4?raw=true" type="video/mp4">
 </video>
-just keep lookinh into her eyes and her angry face. 
+just keep looking into her eyes and her angry face. 
 maybe you need to have beverage's sip just like this girl. awww 😍.
 
-<video width="320" height="540" controls preload="auto">
+<video width="320" height="450" controls preload="auto">
   <source src="https://github.com/sirkapil/Kiko/raw/master/uploads/music/all_shayari-20180923-0001.mp4" type="video/mp4">
 </video>
 
