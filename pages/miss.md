@@ -41,6 +41,13 @@ cloud and don’t care much about social attention.
 Now, Chamki, Take a deep breath and smile now😊. I'm missing you too and
 send me a text right now.
 
+
+**I told you to remember 3 things:**
++ I'm here.
++ I'll Wait.
++ I love you more than anything. 
+
+
 Lots of Love 
 
 ❤❤❤
