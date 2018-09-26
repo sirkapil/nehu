@@ -15,10 +15,9 @@ Umm.. You feeling lonely ? Really ?
 First thing you should know is that : 
 
 + **You are not alone.**
+(Abhi Mai Hu Naa ❤)
 
-
-
-> (Abhi Main hu naa❤) I'm forever with you. I may be thousands of miles away from you but my heart ❤ is always with you, it goes wherever you go. So, Don't feel alone.  No matter how bad situation is, I'll be always with you. I can't solve all of your problems but rest assured that I'll be always there with you just like a shadow.
+> I'm forever with you. I may be thousands of miles away from you but my heart ❤ is always with you, it goes wherever you go. So, Don't feel alone.  No matter how bad situation is, I'll be always with you. I can't solve all of your problems but rest assured that I'll be always there with you just like a shadow.
 
 
 + **Don't hide your emotions**
