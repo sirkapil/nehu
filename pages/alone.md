@@ -27,5 +27,13 @@ Alright !
 
 (Abhi Main Hun Naa ❤)
 
+Just remember 3 things:
+
++ I'm here
+
++ I'll Wait
+
++ I love you more than anything. 
+
 
 ---
