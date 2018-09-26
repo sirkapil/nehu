@@ -27,7 +27,7 @@ Alright !
 
 (Abhi Main Hun Naa ❤)
 
-Just remember 3 things:
+Always remember 3 things:
 
 + I'm here
 
