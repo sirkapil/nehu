@@ -1,9 +1,9 @@
 ---
 layout: page
-title: When I qualify JRF❤
+title: When i qualify JRF exam 😍
 permalink: /jrf.html
 ---
 
 ---
 
-**Abhi Result Nhi Aaya Hai**
+`Abhi Result Nhi Aaya Hai`
