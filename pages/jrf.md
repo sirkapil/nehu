@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When i qualify JRF exam 😍
+title: When i qualify JRF exam.
 permalink: /jrf.html
 ---
 
