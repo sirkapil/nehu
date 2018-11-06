@@ -1,7 +1,7 @@
 ---
 layout: page
 title: When you've soft corner for me 😍
-permalink: /date.html
+permalink: /p/date.html
 ---
 
 **18 Aug, 2018**
