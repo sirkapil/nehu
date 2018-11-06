@@ -1,7 +1,7 @@
 ---
 title: When we plan to meet 🤗
 layout: page
-permalink: /meet.html
+permalink: /p/meet.html
 ---
 
 **15 Aug,2018**
