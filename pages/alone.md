@@ -1,7 +1,7 @@
 ---
 layout: page
 title: When you feel alone 😥
-permalink: /alone.html
+permalink: /p/alone.html
 ---
 
 
