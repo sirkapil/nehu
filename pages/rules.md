@@ -1,6 +1,6 @@
 ---
 title: Rules ☝
-permalink: /rules.html
+permalink: /p/rules.html
 layout: page
 ---
 <hr />
