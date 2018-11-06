@@ -1,7 +1,7 @@
 ---
 title: Open When Miss me😥
 layout: page
-permalink: /miss.html
+permalink: /p/miss.html
 ---
 
 ---
