@@ -1,7 +1,7 @@
 ---
 title: Open When Need Smile😊
 layout: page
-permalink: /happy.html
+permalink: /p/happy.html
 ---
 
 ---
