@@ -18,7 +18,7 @@ twitter:
 # URL
 baseurl:            "https://chamki.netlify.com"
 #baseurl:            "" #For Root Domain
-permalink:          /:title/
+permalink:          /p/:title/
 
 # Markdown
 markdown:           kramdown
