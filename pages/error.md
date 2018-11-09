@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#ff4500">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#ff4500">
+ <!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" media="screen and (orientation: portrait)">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" media="screen and (orientation: portrait)">
+<link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="https://sirkapil.me/img/icon/icon.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" media="screen and (orientation: landscape)">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" media="screen and (orientation: landscape)">
+<title> Page is Deleted ! </title>
+</head>
+<body background="https://cdn1.netlify.com/bg/img/du1.gif">
+<section class="section">
+<div class="container">
+    <h1 class="title animated bounceInRight" align="left">
+    Sorry ;(
+  </h1><br />
+<p class="subtitle animated slideInUp" align="left">The page you are looking for has been deleted by kapil.<br></p></div><section>
+</body>
+</html>
