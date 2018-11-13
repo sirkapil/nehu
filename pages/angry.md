@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /p/angry.html
+permalink: /angry.html
 title: When You're Angry😡
 ---
 
