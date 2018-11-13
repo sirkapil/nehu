@@ -1,15 +1,14 @@
 ---
 title: Rules ☝
-permalink: /p/rules.html
+permalink: /rules.html
 layout: page
 ---
 <hr />
 Rules are simple. Read them carefully and please follow them. Please, Sweetheart ❤
 
-**1.** All five letters have been posted. However, I've a lot of content and I'll try to post more letters on weekends. ✌
 
-**2.** Keep these letters secret. (Hum dono ke bich mai sirf, Okay?😊)
+**1.** Keep these letters secret. (Hum dono ke bich mai sirf, Okay?😊)
 
-**3.** Don't open all at once.(jald baaji main sabko mat khol dena)🙏
+**2.** Don't open all at once.(jald baaji main sabko mat khol dena)🙏
 
-**4.** Be honest , open birthday letter only on your birthday🎈🎂 and others exactly when the situation happens.😘
+**3.** Be honest, open birthday letter only on your birthday🎈🎂 and others exactly when the situation happens.😘
