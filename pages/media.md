@@ -1,7 +1,7 @@
 ---
 layout: page
 title: When you need to hear soothing voice ❤
-permalink: /p/media.html
+permalink: /media.html
 --- 
 
 **Aug 22, 2018**
