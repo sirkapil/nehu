@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aisa nhi hota
+permalink: /aisa-nhi-hota.html
 ---
 
 main hamesha kosish krta rha ki kaise apne bich chize achhi kar saku lekin jitna mai chize achhi krne ki koshish krta hu, utna hee tum complicated krti rhti ho. 
