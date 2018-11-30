@@ -17,8 +17,12 @@ Thank u for giving me some of the most beautiful memories of my life.
 
 I know that you do not take any decision lightly so before taking this decision, you would have thought about it a lot. I will respect ur decision. I can understand that you dont have feelings for me and want us to be seperated. It's okay !  it will be very hard for me to stay away from you , but it will be even more hard for me being only friend with you forever. 
 
++ You understand me so well, just like you can read my mind.
++ I learn a lot from you.
 + Every time I hear a romantic song,<br>
 It reminds me of you,<br>
++ My life is beautiful when you're with me. Every second become beautiful for me.
++ I love your lips. Always keep smile on your lips as every time you smile, i melt.
 + 
 
 
