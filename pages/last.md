@@ -29,6 +29,12 @@ but I lived desperately for you
 
 So, whenever you feel lonely, just close your eyes and think about all this unconditional and unrequited love. I'll be there, right by your side. Love you always !
 
+>**Without an explanation,
+I must leave
+Without another word,
+I must live on
+Without you,**
+
 I wish that you'll find your true love soon.
 
 Good bye, My dearest love.
