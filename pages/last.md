@@ -25,7 +25,7 @@ Without another word,
 I must live on my life
 Without you,**
 
-I wish that you'll find your true love soon.
+I wish that you'll find your true love soon. just 
 
 Good Bye !<br>
 My dearest love.
