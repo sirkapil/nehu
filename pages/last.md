@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Last Message.
+title: last letter
 permalink: /last.html
 ---
 
