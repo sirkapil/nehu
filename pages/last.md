@@ -1,6 +1,6 @@
 ---
 layout: page
-title: last letter
+title: Final letter
 permalink: /last.html
 ---
 
