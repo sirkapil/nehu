@@ -21,5 +21,7 @@ The last thing , i can say to you is : Always keep smiling, you are precious to 
 
 I wish that you'll find your true love soon.
 
+I don't have much to say now, without another word, i must leave. We aren't supposed to meet again in life. Abhi apni aankhe band krna..close, bilkul close and vaise hee bye bolna jaise hum last time metro mai mile the, aise hee muskrate hue.
+
 Good Bye !<br>
 My dearest love.
