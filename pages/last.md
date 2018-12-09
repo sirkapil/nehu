@@ -17,11 +17,13 @@ Thanku for giving me some of the most beautiful memories of my life. I will alwa
 
 You took a tough decision. I know that you do not take any decision lightly so before taking this decision, you would have thought about it a lot. I will respect ur decision. I can understand that you dont have feelings for me and dont want us to be together. It's okay ! 
 
-The last thing , i can say to you is : Always keep smiling, you are precious to me. Even, Uniform mai bhi khush rehna. Best wishes for serving in uniform !
+The last few things , i can say to you :
 
-I wish that you'll find your true love soon.
++ Always keep smiling, you are precious to me. Even, Uniform mai bhi khush rehna. Best wishes for serving in uniform !
++ Wherever you go, Whoever you meet, Always remember that there is this guy who loves you best even when you have no makeup on !
 
-I don't have much to say now, without another word, i must leave. We aren't supposed to meet again in life. Abhi apni aankhe band krna..close, bilkul close and vaise hee bye bolna jaise hum last time metro mai mile the, aise hee muskrate hue.
+
+I don't have much to say now, without another word, i must leave. We aren't supposed to meet again in life. Abhi apni aankhe band krna..close, bilkul close and vaise hee bye bolna jaise hum last time metro mai mile the, aise hee muskrate hue. Just go, leave me alone.
 
 Good Bye !<br>
 My dearest love.
