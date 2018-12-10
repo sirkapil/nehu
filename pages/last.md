@@ -22,8 +22,6 @@ The last few things , i can say to you :
 + Always keep smiling, you are precious to me. Even, Uniform mai bhi khush rehna. Best wishes for serving in uniform !
 + Wherever you go, Whoever you meet, Always remember that there is this guy who loves you best even when you have no makeup on !
 
-
-I don't have much to say now, without another word, i must leave. We aren't supposed to meet again in life. Abhi apni aankhe band krna..close, bilkul close and vaise hee bye bolna jaise hum last time metro mai mile the, aise hee muskrate hue. Just go, leave me alone.
+Baaki mujhe kuchh nhi kehna, I don't have much to say now, without another word, i must leave. We aren't supposed to meet again in life. Abhi apni aankhe band krna..close, bilkul close and vaise hee bye bolna jaise hum last time metro mai mile the, aise hee muskrate hue... Just go now and leave me alone.
 
 Good Bye !<br>
-My dearest love.
