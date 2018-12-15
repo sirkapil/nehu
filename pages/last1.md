@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final letter
-permalink: /last.html
+permalink: /last1.html
 ---
 
 **29 Nov, 2018**
