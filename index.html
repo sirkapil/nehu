@@ -20,6 +20,17 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      .swal-text {
+  background-color: #FEFAE3;
+  padding: 17px;
+  border: 1px solid #F0E1A1;
+  display: block;
+  margin: 22px;
+  text-align: center;
+  color: #61534e;
+}
+      </style>
 </head>
 <body>
   <script>
@@ -27,7 +38,7 @@
     if (!localStorage.returning) {
     // run only if returning not stored in localStorage
 
-    swal("Notice!", "This site is no longer maintained. It will shut down on 31 Jan 2019, 0800 GMT.", "error");
+    swal("Notice!", "This site is no longer maintained and It will shut down on 31 Jan 2019, 0800 GMT.", "-Netlify Team", "warning");
       localStorage.returning = true;
 } });
       </script>
