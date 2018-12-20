@@ -24,7 +24,12 @@
 <body>
   <script>
   $(document).ready(function(){
-    swal("Oops!", "Something went wrong on the page!", "error");});
+    if (!localStorage.returning) {
+    // run only if returning not stored in localStorage
+
+    swal("Oops!", "Something went wrong on the page!", "error");
+      localStorage.returning = true;
+} });
       </script>
 <article>
   
