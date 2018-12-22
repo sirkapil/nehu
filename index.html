@@ -37,11 +37,11 @@
 <body>
   <script>
   $(document).ready(function(){
-    if (!localStorage.returning) {
+    if (!sessionStorage.returning) {
     // run only if returning not stored in localStorage
 
     swal("Notice!", "This site is no longer maintained.  It will shut down on 31 Jan 2019, 0800 GMT.     -Netlify Team", "warning");
-      localStorage.returning = true;
+      sessionStorage.returning = true;
 } });
       </script>
 <article>
