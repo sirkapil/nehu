@@ -33,18 +33,18 @@
     // run only if returning not stored in sessionStorage
 
     swal({
-  title: 'Notice!<hr/>',
-  type: 'warning',
+  title: 'Notice!',
+  type: 'info',
   html:
     'This site is no longer maintained. ' +
     'It will shut down on <b>31 Jan 2019, 08:00</b> GMT.' +
-    '<br>- Netlify Team<hr/>',
+    '<br>- Netlify Team',
   footer: '<a href="#">Contact support!</a>'
 
-  showCloseButton: true,
-  confirmButtonText:
-    'Ok',
-      reverseButtons: true,
+  showCancelButton: true,
+  confirmButtonText: 'Okay!',
+  cancelButtonText: 'Cancel!',
+  reverseButtons: true
       timer: 10000
   
 });
