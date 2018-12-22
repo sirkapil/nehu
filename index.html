@@ -21,19 +21,9 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.32.4/sweetalert2.all.min.js"></script>
 
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
-    <style>
-      .swal-html {
-  background-color: #FEFAE3;
-  padding: 17px;
-  border: 1px solid #F0E1A1;
-  display: block;
-  margin: 22px;
-  text-align: center;
-  color: #61534e;
-}
-      </style>
+    
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
+    
     
 </head>
 <body>
@@ -43,17 +33,19 @@
     // run only if returning not stored in sessionStorage
 
     swal({
-  title: '<b>Notice!</b>',
+  title: 'Notice!<hr/>',
   type: 'warning',
   html:
     'This site is no longer maintained. ' +
     'It will shut down on <b>31 Jan 2019, 08:00</b> GMT.' +
-    '<br>- <b>Netlify Team</b>',
+    '<br>- Netlify Team<hr/>',
+  footer: '<a href="#">Contact support!</a>'
+
   showCloseButton: true,
   confirmButtonText:
     'Ok',
       reverseButtons: true,
-      timer: 5000
+      timer: 10000
   
 });
       sessionStorage.returning = true;
@@ -105,16 +97,6 @@ Last Updated: <b>16 Dec, 2018</b>
 
 </article>
 
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script></body>
+</body>
 </html>
 
