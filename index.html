@@ -43,18 +43,16 @@
     // run only if returning not stored in sessionStorage
 
     swal({
-  title: '<b>Notice !</b>',
+  title: '<b>Notice!</b>',
   type: 'warning',
   html:
     'This site is no longer maintained. ' +
-    'It will shut down on <b>31 Jan,2019 08:00</b>GMT.<br>' +
-    '- <b>Netlify Team</b>',
+    'It will shut down on <b>31 Jan 2019, 08:00</b> GMT.' +
+    '<br>- <b>Netlify Team</b>',
   showCloseButton: true,
-  showCancelButton: false,
   confirmButtonText:
     'Ok',
-  cancelButtonText:
-    'Cancel'
+  
 });
       sessionStorage.returning = true;
 } });
