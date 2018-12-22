@@ -24,7 +24,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
     <style>
-      .swal-text {
+      .swal-html {
   background-color: #FEFAE3;
   padding: 17px;
   border: 1px solid #F0E1A1;
@@ -52,6 +52,8 @@
   showCloseButton: true,
   confirmButtonText:
     'Ok',
+      reverseButtons: true,
+      timer: 5000
   
 });
       sessionStorage.returning = true;
