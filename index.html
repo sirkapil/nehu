@@ -40,7 +40,20 @@
     if (!sessionStorage.returning) {
     // run only if returning not stored in sessionStorage
 
-    swal("Notice!", "This site is no longer maintained.  It will shut down on 31 Jan 2019, 08:00 GMT.         -Netlify Team", "warning");
+    swal({
+  title: '<b>Notice!</b>',
+  type: 'warning',
+  html:
+    'This site is no longer maintained. ' +
+    'It will shut down on <b>31 Jan,2019 08:00</b> GMT.<br>' +
+    '- Netlify Team',
+  showCloseButton: true,
+  showCancelButton: true,
+  confirmButtonText:
+    'Ok',
+  cancelButtonText:
+    'Cancel'
+});
       sessionStorage.returning = true;
 } });
       </script>
