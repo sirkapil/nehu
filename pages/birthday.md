@@ -1,6 +1,6 @@
 ---
 title: Open When need cake🍰
-permalink: /p/birthday.html
+permalink: /birthday.html
 layout: page
 ---
 
