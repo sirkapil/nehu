@@ -8,7 +8,7 @@ layout: page
 
 ### Hey Nehu,
 
-It's 15th feb, Wooho, If you're still sleeping then just wake up as it's your birthday.🎺
+It's 15th feb, Wooho, If you're still sleeping then you must wake up as it's your birthday.🎺
 
 ![photo](../uploads/user/birthday-no.jpg)
 
@@ -22,7 +22,7 @@ today i wish from core of my heart ❤
 
 + I wish you go confidently in the direction of your dreams and never look back on regrets or lost opportunities.✌
 + I wish you forever remain the source of unlimited happiness, love, strength,inspiration and smile😊.
-+ I wish you get a chance for a trip to kashmir soon.🌏 
++ I wish you get a chance for a trip to kashmir (jannat) soon.🌏 
 
 ![trip](../uploads/user/trip.jpg)
 
@@ -32,9 +32,9 @@ today i wish from core of my heart ❤
 + I wish you soon become self independent in life and never need anyone to depend on. ✌
 + I wish you keep dancing and singing your favorite songs. (sad songs nhi sunne hain aur unpr dance bhi nhi 😆)
 + I wish your wishes become reality. (make a few wishes for me too.😆)
-+ I wish you keep spreading happiness in others life forever😊
++ I wish you keep spreading happiness in others life forever.😊
 + I wish your madness keep alive surroundings.😎 (velli kudi 🙈)
-+ I wish you never give up on your goals in life.💪
++ I wish you teach me a few more words, awyn hee .💪
 + I wish you get sooo much love from those all whom you love.❤
 + I wish you remain unchanged, (Aise hee sweet si achhi ho, just don't ever change.)
 
@@ -52,7 +52,7 @@ Cheers🎉🎊
 
 🎂🍰🍫
 
-**_Krack Jack_**
+*_Krack Jack_*
 ---
 
 ---
