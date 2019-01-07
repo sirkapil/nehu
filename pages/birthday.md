@@ -5,13 +5,13 @@ layout: page
 ---
 ---
 
-**15 February,2019**
+**15 Feb, 2019**
 
 ---
 
 ### Hey Nehu,
 
-It's 15th feb, Wooho, If you're still sleeping then you must wake up as it's your birthday.🎺
+Wooho, Today is 15th feb.  If you're still sleeping then you must wake up as it's your birthday, madam🎺
 
 ![photo](../uploads/user/birthday-no.jpg)
 
@@ -25,7 +25,7 @@ today i wish from core of my heart ❤
 
 + I wish you go confidently in the direction of your dreams and never look back on regrets or lost opportunities.✌
 + I wish you forever remain the source of unlimited happiness, love, strength,inspiration and smile😊.
-+ I wish you get a chance for a trip to kashmir (jannat) soon.🌏 
++ I wish you get a chance for a trip to kashmir jannat and punjab soon.🌏 
 
 ![trip](../uploads/user/trip.jpg)
 
@@ -55,7 +55,7 @@ Cheers🎉🎊
 
 🎂🍰🍫
 
-_*Krack Jack*_
+_- Krack Jack_
 ---
 
 ---
