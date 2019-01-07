@@ -17,34 +17,11 @@
  <!-- iOS Safari --> 
 <meta name="apple-mobile-web-app-status-bar-style" content="#ff4500">
 <link rel="icon" sizes="16x16 32x32 48x48 96x96 192x192" href="//cdn1.netlify.com/img/icon.png">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-   
-    <style>
-      .swal-text {
-  background-color: #FEFAE3;
-  padding: 17px;
-  border: 1px solid #F0E1A1;
-  display: block;
-  margin: 22px;
-  text-align: center;
-  color: #61534e;
-}
-      </style>
+  
     
 </head>
 <body>
-  <script>
-  $(document).ready(function(){
-    if (!sessionStorage.returning) {
-    // run only if returning not stored in sessionStorage
-
-    swal("Notice!", "This site is no longer maintained.  It will shut down on 31 Jan 2019, 08:00 GMT.         -Netlify Team", "warning");
-      sessionStorage.returning = true;
-} });
-      </script>
-<article>
+  <article>
   
     <section>
 <h1 align="center">
@@ -52,53 +29,15 @@
 </h1><hr /><br />
  <ul>
    <li>
- <a href="/rules.html">Please Read It First ☝</a> 
+ <a href="/birthday.html"> It's your birthday !</a> 
 </li> 
-   
-  <li>
- <a href="/last.html">Final letter.</a> 
- </li>
-   
-    <li>
- <a href="/date.html">You've feelings for me😍</a> 
- </li>
-  
-  
-    <li>
- <a href="/angry.html">You are angry 😡</a> 
- </li>
-   
-  <li>
- <a href="/miss.html">You miss me 😥</a> 
-</li>  
-   
-  <li>
- <a href="/media.html">You need to hear a soothing voice ❤</a> 
- </li>
-   
-  <li>
- <a href="/alone.html">You feel alone 😢</a> 
- </li>
-   
+      
 </ul>
   <br /><br /><br />
-Last Updated: <b>16 Dec, 2018</b>
+Last Updated: <b>15 Feb, 2019</b>
 
 </section>
 
-
-
 </article>
-
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script></body>
+    </body>
 </html>
