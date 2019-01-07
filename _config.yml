@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            "https://chamki.netlify.com"
+baseurl:            "https://nehu.netlify.com"
 #baseurl:            "" #For Root Domain
 permalink:          /p/:title/
 
