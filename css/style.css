@@ -1,0 +1,505 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:800');
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
+
+@import url('https://fonts.googleapis.com/css?family=Overlock:900');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(35deg, hsl(340, 100%, 80%) 30%, hsl(216, 100%, 80%) 70%);
+  background-attachment: fixed;
+}
+
+.letter {
+  margin: 5% 0 0 0;
+  width: 500px;
+  height: 600px;
+  background: hsl(48, 100%, 75%);
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  transform: rotate(8deg);
+}
+
+.card {
+  position: relative;
+  margin: 0;
+  padding: 40px 20px;
+  width: 500px;
+  height: 600px;
+  background: url(https://cdn.inspirationhut.net/wp-content/uploads/2014/09/cream-paper-subtle-pattern.jpg);
+  background-size: cover;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5),
+              -5px -5px 15px rgba(0, 0, 0, 0.3);
+  transform: rotate(-8deg);
+}
+
+section {
+  position: absolute;
+  margin: 35% 15%;
+}
+
+.ribbon {
+  position: absolute;
+  top: 0;
+  left: 5%;
+  width: 30px;
+  height: 600px;
+  background: rgba(220, 20, 60, 0.7);
+  z-index: 1;
+}
+
+.knot {
+  position: absolute;
+  width: 25px;
+  height: 90px;
+  background: rgba(220, 20, 60, 0.9);
+  border-radius: 10%;
+}
+
+.knot-1 {
+  top: 5%;
+  left: 6%;
+  transform: rotate(-40deg);
+  z-index: 2;
+}
+
+.knot-2 {
+  top: 5%;
+  left: 5%;
+  transform: rotate(40deg);
+  z-index: 2;
+}
+
+.top-border {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 150px;
+  border-top: 2px solid hsl(216, 100%, 80%);
+  border-radius: 10%;
+}
+
+.right-border {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  height: 100px;
+  border-right: 2px solid hsl(216, 100%, 80%);
+  border-radius: 10%;
+}
+
+/* =========
+    Credits
+   ========= */
+
+.credit__container-1 {
+  position: absolute;
+  bottom: 0;
+  left: 15%;
+  width: 160px;
+  height: 40px;
+  border-radius: 10%;
+  background-color: hsl(220, 100%, 85%);
+  z-index: 1;
+}
+
+.credit__container-2 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 160px;
+  height: 32px;
+  border-radius: 0;
+  background-color: hsl(220, 100%, 85%);
+  z-index: 1;
+}
+
+  .credit__container-1:hover {
+    position: absolute;
+    bottom: 5px;
+    transition: ease 0.4s;
+  }
+
+.credits {
+  font-family: 'Baloo Thambi', cursive;
+  font-size: 1.1rem;
+  padding-left: 5px;
+  letter-spacing: 1px;
+  color: rgba(0, 0, 0, 0.5);
+  cursor: default;
+}
+
+.image {
+  position: absolute;
+  bottom: 0px;
+  right: 0%;
+  padding: 5px;
+  width: 40px;
+  border-radius: 50%;
+  cursor: default;
+  z-index: 2;
+}
+
+  .image:hover {
+    position: absolute;
+    bottom: 2px;
+    transition: ease 0.4s;
+  }
+
+/* ============================== */
+
+.credit__container-3 {
+  position: absolute;
+  bottom: 0;
+  right: 5%;
+  width: 120px;
+  height: 40px;
+  border-radius: 10%;
+  background-color: hsl(220, 100%, 85%);
+  z-index: 1;
+}
+
+.credit__container-4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 120px;
+  height: 32px;
+  border-radius: 0;
+  background-color: hsl(220, 100%, 85%);
+  z-index: 1;
+}
+
+  .credit__container-3:hover {
+    position: absolute;
+    bottom: 5px;
+    transition: ease 0.4s;
+  }
+
+.credits {
+  font-family: 'Baloo Thambi', cursive;
+  font-size: 1.1rem;
+  padding-left: 5px;
+  letter-spacing: 1px;
+  color: rgba(0, 0, 0, 0.5);
+  cursor: default;
+}
+
+.image {
+  position: absolute;
+  bottom: 0px;
+  right: 0%;
+  padding: 5px;
+  width: 40px;
+  border-radius: 50%;
+  cursor: default;
+  z-index: 2;
+}
+
+  .image:hover {
+    position: absolute;
+    bottom: 2px;
+    transition: ease 0.4s;
+  }
+
+
+/* ======
+    Bear
+   ====== */
+
+.bear-head {
+  position: absolute;
+  top: 8%;
+  left: 40%;
+  width: 110px;
+  height: 100px;
+  border-radius: 45%;
+  box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.3);
+  background-color: hsl(30, 52%, 35%);
+  z-index: 1; 
+}
+
+.ears {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 45%;
+  background-color: hsl(30, 52%, 35%);
+  z-index: 1;
+}
+
+.left-ear {
+  left: 40%;
+}
+
+.right-ear {
+  left: 54%;
+}
+
+.ear-shade {
+  position: absolute;
+  width: 12px;
+  height: 20px;
+  border-radius: 40%;
+  background-color: hsl(30, 50%, 70%);
+  z-index: 2;
+}
+
+.left-ear-shade {
+  top: 47px;
+  left: 212px;
+  transform: rotate(-125deg);
+}
+  .left-ear-shade::before {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    width: 10px;
+    height: 15px;
+    border-radius: 45%;
+    background-color: hsl(30, 50%, 70%);
+  }
+
+.right-ear-shade {
+  top: 47px;
+  left: 285px;
+  transform: rotate(125deg);
+}
+
+  .right-ear-shade::before {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: -1px;
+    width: 10px;
+    height: 15px;
+    border-radius: 45%;
+    background-color: hsl(30, 50%, 70%);
+  }
+
+.eyes {
+  position: absolute;
+  width: 16px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: rgba(20, 20, 20, 0.6);
+  z-index: 2;
+}
+
+.left-eye {
+  top: 90px;
+  left: 218px;
+}
+
+.right-eye {
+  top: 90px;
+  left: 273px;
+}
+
+.mouth-1 {
+  position: absolute;
+  top: 96px;
+  left: 237px;
+  width: 30px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.mouth-2 {
+  position: absolute;
+  top: 94px;
+  left: 239px;
+  width: 28px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.mouth-3 {
+  position: absolute;
+  top: 98px;
+  left: 237px;
+  width: 32px;
+  height: 25px;
+  border-radius: 45%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.mouth-4 {
+  position: absolute;
+  top: 100px;
+  left: 236px;
+  width: 34px;
+  height: 25px;
+  border-radius: 45%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.mouth-5 {
+  position: absolute;
+  top: 102px;
+  left: 236px;
+  width: 34px;
+  height: 25px;
+  border-radius: 45%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.mouth-6 {
+  position: absolute;
+  top: 106px;
+  left: 236px;
+  width: 34px;
+  height: 25px;
+  border-radius: 45%;
+  background-color: beige;
+  z-index: 2;
+}
+
+.nose {
+  position: absolute;
+  top: 98px;
+  left: 242px;
+  width: 22px;
+  height: 18px;
+  border-radius: 45%;
+  background-color: rgba(20, 20, 20, 0.8);
+  z-index: 3;
+}
+
+.lips-1 {
+  position: absolute;
+  top: 121px;
+  left: 248px;
+  width: 10px;
+  height: 5px;
+  border-radius: 35%;
+  background-color: hsl(0, 0%, 15%);
+  z-index: 3;
+}
+
+.lips-2 {
+  position: absolute;
+  top: 120px;
+  left: 243px;
+  width: 7px;
+  height: 5px;
+  border-radius: 35%;
+  background-color: hsl(0, 0%, 15%);
+  transform: rotate(20deg);
+  z-index: 3;
+}
+
+.lips-3 {
+  position: absolute;
+  top: 120px;
+  left: 256px;
+  width: 7px;
+  height: 5px;
+  border-radius: 35%;
+  background-color: hsl(0, 0%, 15%);
+  transform: rotate(-20deg);
+  z-index: 3;
+}
+
+.lips-4 {
+  position: absolute;
+  top: 118px;
+  left: 240px;
+  width: 7px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: hsl(0, 0%, 15%);
+  transform: rotate(40deg);
+  z-index: 3;
+}
+
+.lips-5 {
+  position: absolute;
+  top: 118px;
+  left: 259px;
+  width: 7px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: hsl(0, 0%, 15%);
+  transform: rotate(-40deg);
+  z-index: 3;
+}
+
+/* ===========
+    Card Text
+   =========== */
+
+.wish {
+  font-family: 'Dosis', sans-serif;
+  font-size: 36px;
+  text-align: center;
+  color: hsl(150, 100%, 35%);
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  text-shadow: 3px 3px hsl(150, 100%, 80%);
+  padding-bottom: 1.2rem;
+}
+
+.quote {
+  font-family: 'Overlock', cursive;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+  color: rgba(0, 0, 0, 0.5);
+  padding-bottom: 1.2rem;
+}
+
+h4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+
+.lasagna {
+  position: absolute;
+  top: -40%;
+  left: -10%;
+  transform: rotate(-30deg);
+}
+
+.meme {
+  position: absolute;
+  top: -40%;
+  right: -10%;
+  transform: rotate(30deg);
+}
+
+.oi {
+  position: absolute;
+  bottom: -20%;
+  left: -10%;
+  transform: rotate(30deg);
+}
+
+.ylyl {
+  position: absolute;
+  bottom: -14%;
+  right: -14%;
+  transform: rotate(-30deg);
+}
